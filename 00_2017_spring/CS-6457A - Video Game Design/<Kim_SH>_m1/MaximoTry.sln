@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BD1A4406-C7A2-08EA-4637-69AE0D7969EB}") = "MaximoTry", "Assembly-CSharp.csproj", "{BA37E863-EB7A-7E30-E85A-40B008A5B114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA37E863-EB7A-7E30-E85A-40B008A5B114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA37E863-EB7A-7E30-E85A-40B008A5B114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA37E863-EB7A-7E30-E85A-40B008A5B114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA37E863-EB7A-7E30-E85A-40B008A5B114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
