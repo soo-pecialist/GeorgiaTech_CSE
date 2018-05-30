@@ -1,0 +1,49 @@
+k-Means model(HW2.c; kmeans_soohyeon.c; kmeans_soohyeon.h) is created by Soo Hyeon Kim(GTID#: 903230437
+Below is explanation of the whole plot with functions. 
+
+<Function summary>
+Kmeans(int dim, double *X, int n, int k, double *cluster_centroid, int *cluster_assignment_final)
+	//X(data): ((0~dim-1), ... n times)
+	//cluster_centroid(centroid coordinates): ((0~dim-1), ... (k times))
+	//cluster_assignment_final(final clustered result) : e.g., (0, 2, 3, 1, ... (n times))
+	>fail(char *str)
+		//ref: if something is wrong, then terminates the program
+	>calc_all_distances(dim, n, k, X, cluster_centroid, dist);
+		//ref: calculate distance between each point and each centroid
+		//dist: ((0~k-1), ... (n times))
+		>>calc_distance(int dim, double *p1, double *p2)
+			//ref: distance between two points
+	>choose_all_clusters_from_distances(dim, n, k, dist, cluster_assignment_cur);
+		//ref: find the closest cluster from each point and store it in cluster_assignment_cur[]
+		//cluster_assignment_cur: (0, 1, 2, ... (n points))
+	>copy_assignment_array(n, cluster_assignment_cur, cluster_assignment_prev);
+		//ref: simply copying array
+	>calc_cluster_centroids(dim, n, k, X, cluster_assignment_cur, cluster_centroid);
+		//ref: updating centroids' coordinates happens here
+	>calc_total_distance(dim, n, k, X, cluster_centroid, cluster_assignment_cur);
+		//ref: return total distance (sum of distances between point and its centroid) 
+		>>calc_distance(int dim, double *p1, double *p2)
+	>copy_assignment_array(int n, int *source, int *target);
+		//ref: copy source into target (restoration)
+	>assignment_change_count(n, cluster_assignment_cur, cluster_assignment_prev);
+		//ref: return how many changes have happened in this step
+	>diagnosis(dim, n, k, X, cluster_assignment_cur, cluster_centroid);
+		>>get_cluster_member_count()
+			//ref: update cluster_member_count[] - of which ith member holds the number of members in ith cluster
+
+
+	<kmeans output file format>
+#_of_item	#_of_attr	k(#_of_klusteR)
+item1_cluster_#		item1_attr1	item1_attr2  …  item1_attrm
+item2_cluster_#		item2_attr1	item2_attr2  …  item2_attrm
+				   . . . 
+				   
+e.g., (gbm_k_6.txt)
+766 39 6
+1	0.025992	0.168233	0.216671	0.824155	0.791554	0.015496	0.025992	0.333333	0.161220	0.962025	0.791666	0.095354	0.035272	0.548864	0.000000	0.632151	-0.166667	0.704043	0.033010	0.008921	0.840992	0.843931	0.475862	0.875536	0.701863	0.891753	0.646636	0.565217	0.736842	0.507109	0.666667	0.563758	0.154660	0.245630	-0.708754	0.886878	0.314607	-0.602426	0.523143	
+1	0.021204	0.130782	0.170850	0.818124	0.857985	0.012946	0.021204	0.333333	0.145615	0.939394	0.763257	0.082843	0.057648	0.593218	0.000000	0.534897	0.000000	0.929406	0.025243	0.007548	0.998103	0.982659	1.000000	0.828326	0.975155	0.912371	0.311962	0.295652	0.368421	0.260664	0.291667	0.268456	0.064919	0.657880	-0.363519	0.997150	0.643778	-0.929676	0.832688	
+0	0.054720	0.258618	0.244402	0.915250	0.894798	0.033739	0.054720	0.333333	0.233922	0.930233	0.687831	0.150582 . . .
+
+<etc>
+- You can check output file examples under ‘data’, and then under “out_gbm-KM”, “out_KmeansTD1”, and “out_KmeansTD2”
+

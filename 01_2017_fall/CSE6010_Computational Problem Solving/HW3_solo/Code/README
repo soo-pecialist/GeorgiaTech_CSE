@@ -1,0 +1,53 @@
+#Sample discrete event simulation. 
+
+Soohyeon Kim - Engine Part
+Rahul A R    - Application Part
+
+-------------------------------------------------------------------------------------
+To build and run the application:
+make clean: clean any existing executable
+make appln: build the executable
+./appln A : run the executable with incoming call parameter A. E.g. ./appln 1.4
+-------------------------------------------------------------------------------------
+
+<files included in the root folder of the simulation project>
+application.h	Interface between the simulation engine and the application
+application.c	Contains all the functions, event handlers for simulation application
+main.c		Contains the main function
+
+<folders under root project folder>
+- simengine: code for the simulation engine API
+- calendarqueue: code for calendar queue API
+- samples: samples of how to use the calendarqueue API
+- sampleapp: a sample simulation application using our framework
+- linearqueue: code for linear queue API
+- performance test: performance test using 
+
+There are two ways you can run my code on terminal 
+1) using gcc command 	2) using make command (using makefile) 
+
+1) using gcc command
+<performance_dynamic.c>
+a) gcc -o performancetest_dynamic performancetest_dynamic.c ../calendarqueue/calendarqueue.c ../linearqueue/linearqueue.c
+b) ./performancetest_dynamic
+
+<performance_static.c>
+a) gcc -o performancetest_static performancetest_static.c ../calendarqueue/calendarqueue.c ../linearqueue/linearqueue.c
+b) ./performancetest_static
+
+<test.c>
+a) gcc -o test test.c ../calendarqueue/calendarqueue.c
+b) ./test
+
+2) using make command
+<performance_dynamic.c>
+a) (optional, only when there exists exec file) make clean
+b) make
+
+<performance_static.c>
+a) (optional, only when there exists exec file) make clean
+b) make
+
+<test.c>
+a) (optional, only when there exists exec file) make clean
+b) make

@@ -1,0 +1,3085 @@
+======================time=0.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=100
+- Net velocity in the x and y respectively are: 0.090000, 0.790000
+
+Cluster	Size	Centroid
+1	100 	(0.850000,0.250000)
+======================time=1.100000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=100
+- Net velocity in the x and y respectively are: 0.013368, 0.068374
+
+Cluster	Size	Centroid
+1	100 	(0.750000,0.250000)
+======================time=2.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=98
+- Net velocity in the x and y respectively are: 0.039517, 0.140013
+
+Cluster	Size	Centroid
+1	98 	(1.245767,0.250000)
+======================time=3.000000=================================
+- Number of clusters: 3
+- [Cluster 1] is the one with the maximum number of Ants=74
+- Net velocity in the x and y respectively are: 0.110626, 0.152273
+
+Cluster	Size	Centroid
+1	74 	(1.245767,0.250000)
+2	5 	(0.746253,1.960999)
+3	7 	(7.659981,3.150205)
+======================time=4.000000=================================
+- Number of clusters: 4
+- [Cluster 2] is the one with the maximum number of Ants=68
+- Net velocity in the x and y respectively are: 0.162753, 0.229731
+
+Cluster	Size	Centroid
+1	4 	(0.850000,0.250000)
+2	68 	(2.750000,0.250000)
+3	2 	(0.250000,0.994953)
+4	3 	(1.566927,2.323981)
+======================time=5.100000=================================
+- Number of clusters: 6
+- [Cluster 3] is the one with the maximum number of Ants=23
+- Net velocity in the x and y respectively are: -0.003538, 0.251368
+
+Cluster	Size	Centroid
+1	6 	(0.750000,0.250000)
+2	15 	(3.250000,0.250000)
+3	23 	(5.750000,0.250000)
+4	15 	(9.286075,0.250000)
+5	4 	(4.017993,3.117345)
+6	5 	(8.968444,3.587998)
+======================time=6.100000=================================
+- Number of clusters: 3
+- [Cluster 2] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: -0.030361, 0.229228
+
+Cluster	Size	Centroid
+1	4 	(1.750000,0.250000)
+2	6 	(2.750000,0.250000)
+3	38 	(6.262747,0.250000)
+======================time=7.100000=================================
+- Number of clusters: 6
+- [Cluster 2] is the one with the maximum number of Ants=15
+- Net velocity in the x and y respectively are: -0.097892, 0.333054
+
+Cluster	Size	Centroid
+1	13 	(6.237726,0.250000)
+2	15 	(9.311536,0.250000)
+3	3 	(6.286507,1.871170)
+4	4 	(8.118579,2.305836)
+5	3 	(6.645545,3.095955)
+6	2 	(9.097585,4.075392)
+======================time=8.100000=================================
+- Number of clusters: 4
+- [Cluster 2] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.062098, 0.348082
+
+Cluster	Size	Centroid
+1	4 	(6.237726,0.250000)
+2	8 	(7.950000,0.250000)
+3	8 	(9.290557,0.250000)
+4	8 	(8.989563,2.540277)
+======================time=9.100000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=17
+- Net velocity in the x and y respectively are: -0.200072, 0.194448
+
+Cluster	Size	Centroid
+1	17 	(9.153021,0.250000)
+======================time=10.100000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.175971, 0.254128
+
+Cluster	Size	Centroid
+1	7 	(9.216728,0.250000)
+2	8 	(9.085413,3.039662)
+======================time=11.100000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: -0.252006, 0.130783
+
+Cluster	Size	Centroid
+1	13 	(9.216728,0.250000)
+======================time=12.100000=================================
+- Number of clusters: 3
+- [Cluster 2] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.007103, 0.168358
+
+Cluster	Size	Centroid
+1	4 	(3.250000,0.250000)
+2	5 	(9.216728,0.250000)
+3	4 	(9.078695,3.373547)
+======================time=13.100000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.126038, 0.229390
+
+Cluster	Size	Centroid
+1	5 	(9.216728,0.250000)
+2	5 	(9.020598,3.608956)
+======================time=14.100000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.038885, 0.379917
+
+Cluster	Size	Centroid
+1	7 	(9.266990,3.606538)
+======================time=15.100000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: -0.054178, 0.359704
+
+Cluster	Size	Centroid
+1	6 	(9.151083,3.842679)
+======================time=16.100000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.080243, 0.472286
+
+Cluster	Size	Centroid
+1	4 	(9.216728,0.250000)
+2	5 	(9.363143,4.010640)
+======================time=17.100000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=20
+- Net velocity in the x and y respectively are: -0.073374, 0.286208
+
+Cluster	Size	Centroid
+======================time=18.100000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.261528, 0.214510
+
+Cluster	Size	Centroid
+======================time=19.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.324808, -0.073677
+
+Cluster	Size	Centroid
+1	5 	(9.316729,0.250000)
+======================time=20.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.226111, -0.031129
+
+Cluster	Size	Centroid
+======================time=21.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.009083, -0.003980
+
+Cluster	Size	Centroid
+1	4 	(9.205726,5.978799)
+======================time=22.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.104618, 0.132355
+
+Cluster	Size	Centroid
+1	4 	(8.750000,0.250000)
+======================time=23.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=15
+- Net velocity in the x and y respectively are: 0.243731, 0.322467
+
+Cluster	Size	Centroid
+======================time=24.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.125569, 0.199176
+
+Cluster	Size	Centroid
+======================time=25.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: -0.012019, 0.233935
+
+Cluster	Size	Centroid
+======================time=26.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: -0.208242, -0.283148
+
+Cluster	Size	Centroid
+======================time=27.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=17
+- Net velocity in the x and y respectively are: -0.193454, 0.067937
+
+Cluster	Size	Centroid
+======================time=28.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.011662, 0.148401
+
+Cluster	Size	Centroid
+1	4 	(3.747700,0.250000)
+======================time=29.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.262010, -0.102221
+
+Cluster	Size	Centroid
+======================time=30.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.402579, -0.155331
+
+Cluster	Size	Centroid
+======================time=31.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.020336, 0.326668
+
+Cluster	Size	Centroid
+======================time=32.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.225743, -0.136444
+
+Cluster	Size	Centroid
+1	4 	(2.350000,0.250000)
+======================time=33.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.051712, -0.174028
+
+Cluster	Size	Centroid
+======================time=34.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: -0.163207, -0.160902
+
+Cluster	Size	Centroid
+======================time=35.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.194091, 0.258513
+
+Cluster	Size	Centroid
+======================time=36.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.280499, 0.169709
+
+Cluster	Size	Centroid
+======================time=37.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.331862, 0.089376
+
+Cluster	Size	Centroid
+======================time=38.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: -0.013575, 0.192865
+
+Cluster	Size	Centroid
+======================time=39.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: -0.070058, 0.070884
+
+Cluster	Size	Centroid
+======================time=40.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: -0.304470, -0.004334
+
+Cluster	Size	Centroid
+======================time=41.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.022065, 0.112863
+
+Cluster	Size	Centroid
+======================time=42.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.300430, 0.083097
+
+Cluster	Size	Centroid
+======================time=43.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.075687, -0.093270
+
+Cluster	Size	Centroid
+======================time=44.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.023841, -0.047659
+
+Cluster	Size	Centroid
+1	4 	(7.449393,0.250000)
+======================time=45.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.050628, -0.292555
+
+Cluster	Size	Centroid
+======================time=46.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.151951, -0.216074
+
+Cluster	Size	Centroid
+1	4 	(8.870023,3.264471)
+======================time=47.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.282247, -0.218319
+
+Cluster	Size	Centroid
+1	5 	(7.449393,0.250000)
+======================time=48.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=16
+- Net velocity in the x and y respectively are: 0.029513, -0.062746
+
+Cluster	Size	Centroid
+======================time=49.000000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.060356, -0.275365
+
+Cluster	Size	Centroid
+1	4 	(1.850000,0.250000)
+2	4 	(7.449393,0.250000)
+======================time=50.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: -0.131654, 0.150394
+
+Cluster	Size	Centroid
+======================time=51.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: -0.072152, 0.342578
+
+Cluster	Size	Centroid
+======================time=52.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.071007, 0.092640
+
+Cluster	Size	Centroid
+======================time=53.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.354777, -0.169985
+
+Cluster	Size	Centroid
+======================time=54.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.048242, -0.295457
+
+Cluster	Size	Centroid
+======================time=55.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: -0.153525, 0.185430
+
+Cluster	Size	Centroid
+======================time=56.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.172454, 0.268610
+
+Cluster	Size	Centroid
+======================time=57.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.243885, -0.175121
+
+Cluster	Size	Centroid
+======================time=58.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.289620, 0.183765
+
+Cluster	Size	Centroid
+1	4 	(9.074915,8.792416)
+======================time=59.000000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.240251, 0.229942
+
+Cluster	Size	Centroid
+1	6 	(9.294203,9.039427)
+2	4 	(9.505943,7.044032)
+======================time=60.000000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.113076, -0.053280
+
+Cluster	Size	Centroid
+1	4 	(9.249464,9.238506)
+2	5 	(9.577624,7.049549)
+======================time=61.000000=================================
+- Number of clusters: 3
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.032199, 0.035529
+
+Cluster	Size	Centroid
+1	4 	(9.316729,0.250000)
+2	4 	(9.306991,9.478873)
+3	4 	(9.498217,6.309643)
+======================time=62.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: -0.280185, 0.119323
+
+Cluster	Size	Centroid
+======================time=63.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: -0.313193, 0.016491
+
+Cluster	Size	Centroid
+======================time=64.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: -0.202159, -0.014364
+
+Cluster	Size	Centroid
+======================time=65.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.320091, 0.089451
+
+Cluster	Size	Centroid
+======================time=66.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.301664, 0.202840
+
+Cluster	Size	Centroid
+======================time=67.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: -0.018725, -0.134177
+
+Cluster	Size	Centroid
+======================time=68.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=21
+- Net velocity in the x and y respectively are: 0.277332, -0.101055
+
+Cluster	Size	Centroid
+======================time=69.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.300700, -0.014465
+
+Cluster	Size	Centroid
+======================time=70.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=1
+- Net velocity in the x and y respectively are: -0.079919, 0.073765
+
+Cluster	Size	Centroid
+======================time=71.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: -0.157848, -0.260034
+
+Cluster	Size	Centroid
+======================time=72.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: -0.047451, -0.135660
+
+Cluster	Size	Centroid
+======================time=73.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.146487, 0.064472
+
+Cluster	Size	Centroid
+1	4 	(6.900786,6.424635)
+======================time=74.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.113734, 0.158224
+
+Cluster	Size	Centroid
+======================time=75.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.052994, 0.126549
+
+Cluster	Size	Centroid
+1	4 	(9.520131,3.194445)
+======================time=76.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: -0.138126, -0.143107
+
+Cluster	Size	Centroid
+======================time=77.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: -0.114866, -0.128182
+
+Cluster	Size	Centroid
+======================time=78.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: -0.003739, 0.114541
+
+Cluster	Size	Centroid
+======================time=79.099998=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.005501, -0.070205
+
+Cluster	Size	Centroid
+1	4 	(9.559508,3.526838)
+======================time=80.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.120758, 0.210851
+
+Cluster	Size	Centroid
+======================time=81.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: -0.185834, 0.323119
+
+Cluster	Size	Centroid
+======================time=82.099998=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.158724, 0.382649
+
+Cluster	Size	Centroid
+1	4 	(9.255621,6.926268)
+======================time=83.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: -0.086439, 0.081646
+
+Cluster	Size	Centroid
+======================time=84.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.043447, -0.083000
+
+Cluster	Size	Centroid
+======================time=85.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: -0.031780, 0.115255
+
+Cluster	Size	Centroid
+======================time=86.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: -0.068259, -0.093689
+
+Cluster	Size	Centroid
+======================time=87.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: -0.077246, -0.122904
+
+Cluster	Size	Centroid
+======================time=88.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: -0.159095, 0.141102
+
+Cluster	Size	Centroid
+======================time=89.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: -0.175441, -0.284565
+
+Cluster	Size	Centroid
+======================time=90.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: -0.273042, -0.170280
+
+Cluster	Size	Centroid
+======================time=91.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.101453, -0.320008
+
+Cluster	Size	Centroid
+======================time=92.099998=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.106173, -0.278790
+
+Cluster	Size	Centroid
+1	4 	(6.237726,0.250000)
+======================time=93.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.133996, 0.093485
+
+Cluster	Size	Centroid
+======================time=94.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=1
+- Net velocity in the x and y respectively are: -0.115263, -0.098972
+
+Cluster	Size	Centroid
+======================time=95.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.020068, -0.140659
+
+Cluster	Size	Centroid
+======================time=96.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.032030, -0.298346
+
+Cluster	Size	Centroid
+======================time=97.099998=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.105317, -0.033213
+
+Cluster	Size	Centroid
+1	4 	(9.014658,6.124283)
+======================time=98.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: -0.095498, 0.140196
+
+Cluster	Size	Centroid
+======================time=99.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.067975, 0.283160
+
+Cluster	Size	Centroid
+======================time=100.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.058348, -0.078219
+
+Cluster	Size	Centroid
+======================time=101.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: -0.314280, -0.263007
+
+Cluster	Size	Centroid
+======================time=102.099998=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.189640, -0.291944
+
+Cluster	Size	Centroid
+1	4 	(5.750000,0.250000)
+======================time=103.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: -0.139373, -0.020379
+
+Cluster	Size	Centroid
+======================time=104.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.079507, 0.198490
+
+Cluster	Size	Centroid
+======================time=105.099998=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.070122, -0.105449
+
+Cluster	Size	Centroid
+1	4 	(6.972368,0.250000)
+======================time=106.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: -0.364904, 0.132231
+
+Cluster	Size	Centroid
+======================time=107.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=16
+- Net velocity in the x and y respectively are: -0.357012, 0.096702
+
+Cluster	Size	Centroid
+======================time=108.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: -0.108632, 0.347739
+
+Cluster	Size	Centroid
+======================time=109.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.029142, 0.207637
+
+Cluster	Size	Centroid
+======================time=110.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.132583, 0.172926
+
+Cluster	Size	Centroid
+======================time=111.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.017065, 0.119861
+
+Cluster	Size	Centroid
+======================time=112.099998=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.059565, 0.006221
+
+Cluster	Size	Centroid
+1	4 	(5.750000,0.250000)
+======================time=113.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: -0.248113, 0.054463
+
+Cluster	Size	Centroid
+======================time=114.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.012666, -0.106210
+
+Cluster	Size	Centroid
+======================time=115.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.236757, -0.142781
+
+Cluster	Size	Centroid
+======================time=116.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.007437, -0.223724
+
+Cluster	Size	Centroid
+======================time=117.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.302689, -0.047131
+
+Cluster	Size	Centroid
+======================time=118.099998=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.049432, -0.105484
+
+Cluster	Size	Centroid
+1	4 	(4.326240,0.250000)
+======================time=119.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.023811, -0.070883
+
+Cluster	Size	Centroid
+======================time=120.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.242583, -0.048846
+
+Cluster	Size	Centroid
+======================time=121.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.182054, 0.174526
+
+Cluster	Size	Centroid
+======================time=122.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.040997, -0.059088
+
+Cluster	Size	Centroid
+======================time=123.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.076626, -0.084946
+
+Cluster	Size	Centroid
+======================time=124.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.059682, -0.013529
+
+Cluster	Size	Centroid
+======================time=125.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: -0.079475, -0.091717
+
+Cluster	Size	Centroid
+======================time=126.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.029694, -0.111972
+
+Cluster	Size	Centroid
+======================time=127.099998=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.188623, 0.107887
+
+Cluster	Size	Centroid
+======================time=128.100006=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.132576, 0.095139
+
+Cluster	Size	Centroid
+1	4 	(9.054396,3.210488)
+======================time=129.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: -0.299631, 0.027998
+
+Cluster	Size	Centroid
+======================time=130.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.312991, 0.327743
+
+Cluster	Size	Centroid
+======================time=131.100006=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.379261, 0.111310
+
+Cluster	Size	Centroid
+1	4 	(6.237726,0.250000)
+======================time=132.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: -0.051909, 0.008833
+
+Cluster	Size	Centroid
+======================time=133.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=15
+- Net velocity in the x and y respectively are: -0.149723, -0.108187
+
+Cluster	Size	Centroid
+======================time=134.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.161724, 0.259402
+
+Cluster	Size	Centroid
+======================time=135.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.106687, -0.169718
+
+Cluster	Size	Centroid
+======================time=136.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.050250, -0.101346
+
+Cluster	Size	Centroid
+======================time=137.100006=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.057439, -0.201209
+
+Cluster	Size	Centroid
+1	4 	(6.237726,0.250000)
+======================time=138.100006=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.240409, -0.070879
+
+Cluster	Size	Centroid
+1	4 	(4.326240,0.250000)
+2	4 	(6.972368,0.250000)
+======================time=139.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: -0.294952, 0.195889
+
+Cluster	Size	Centroid
+======================time=140.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: -0.172623, 0.276252
+
+Cluster	Size	Centroid
+======================time=141.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: -0.097673, -0.169125
+
+Cluster	Size	Centroid
+======================time=142.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.070079, 0.147705
+
+Cluster	Size	Centroid
+======================time=143.100006=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.226605, 0.216617
+
+Cluster	Size	Centroid
+1	4 	(6.700382,3.248675)
+======================time=144.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=16
+- Net velocity in the x and y respectively are: 0.001893, -0.127086
+
+Cluster	Size	Centroid
+======================time=145.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.332220, 0.012675
+
+Cluster	Size	Centroid
+======================time=146.100006=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.087759, -0.104348
+
+Cluster	Size	Centroid
+1	4 	(8.750000,0.250000)
+======================time=147.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=15
+- Net velocity in the x and y respectively are: -0.294860, -0.014563
+
+Cluster	Size	Centroid
+======================time=148.100006=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.186088, 0.067541
+
+Cluster	Size	Centroid
+1	4 	(6.237726,0.250000)
+======================time=149.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.244293, 0.060419
+
+Cluster	Size	Centroid
+======================time=150.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.300381, 0.079196
+
+Cluster	Size	Centroid
+======================time=151.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.136280, 0.217556
+
+Cluster	Size	Centroid
+======================time=152.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: -0.324875, 0.104702
+
+Cluster	Size	Centroid
+======================time=153.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: -0.230651, 0.043751
+
+Cluster	Size	Centroid
+======================time=154.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: -0.121918, -0.360703
+
+Cluster	Size	Centroid
+======================time=155.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: -0.298574, -0.091323
+
+Cluster	Size	Centroid
+======================time=156.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.086709, -0.115228
+
+Cluster	Size	Centroid
+======================time=157.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: -0.218690, 0.192436
+
+Cluster	Size	Centroid
+======================time=158.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.194295, 0.204288
+
+Cluster	Size	Centroid
+======================time=159.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.139597, 0.328409
+
+Cluster	Size	Centroid
+======================time=160.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.293650, 0.332190
+
+Cluster	Size	Centroid
+======================time=161.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: -0.324193, 0.183469
+
+Cluster	Size	Centroid
+======================time=162.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: -0.246620, 0.278005
+
+Cluster	Size	Centroid
+======================time=163.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: -0.067412, 0.343201
+
+Cluster	Size	Centroid
+======================time=164.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: -0.143135, -0.270694
+
+Cluster	Size	Centroid
+======================time=165.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.109786, -0.262466
+
+Cluster	Size	Centroid
+======================time=166.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.120487, -0.068127
+
+Cluster	Size	Centroid
+======================time=167.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: -0.194072, -0.013164
+
+Cluster	Size	Centroid
+======================time=168.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.247606, -0.178398
+
+Cluster	Size	Centroid
+======================time=169.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.390551, 0.041838
+
+Cluster	Size	Centroid
+======================time=170.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.293990, -0.252512
+
+Cluster	Size	Centroid
+======================time=171.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.227776, -0.055907
+
+Cluster	Size	Centroid
+======================time=172.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.180255, -0.081895
+
+Cluster	Size	Centroid
+======================time=173.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: -0.248870, -0.151429
+
+Cluster	Size	Centroid
+======================time=174.100006=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.154338, 0.078685
+
+Cluster	Size	Centroid
+1	4 	(9.216728,0.250000)
+======================time=175.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: -0.297854, 0.142385
+
+Cluster	Size	Centroid
+======================time=176.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.133919, 0.321939
+
+Cluster	Size	Centroid
+======================time=177.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.039441, 0.256180
+
+Cluster	Size	Centroid
+======================time=178.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: -0.215410, 0.225586
+
+Cluster	Size	Centroid
+======================time=179.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=19
+- Net velocity in the x and y respectively are: 0.237123, -0.036725
+
+Cluster	Size	Centroid
+======================time=180.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=1
+- Net velocity in the x and y respectively are: 0.046122, -0.088833
+
+Cluster	Size	Centroid
+======================time=181.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: -0.193700, 0.132783
+
+Cluster	Size	Centroid
+======================time=182.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: -0.201485, -0.036851
+
+Cluster	Size	Centroid
+======================time=183.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.081598, 0.304169
+
+Cluster	Size	Centroid
+======================time=184.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.027468, 0.107611
+
+Cluster	Size	Centroid
+======================time=185.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: -0.055651, -0.216156
+
+Cluster	Size	Centroid
+======================time=186.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.134406, -0.262868
+
+Cluster	Size	Centroid
+======================time=187.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: -0.044848, -0.240207
+
+Cluster	Size	Centroid
+======================time=188.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=1
+- Net velocity in the x and y respectively are: -0.102946, 0.165642
+
+Cluster	Size	Centroid
+======================time=189.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.108768, 0.144050
+
+Cluster	Size	Centroid
+======================time=190.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: -0.005835, 0.205358
+
+Cluster	Size	Centroid
+======================time=191.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.082457, 0.145130
+
+Cluster	Size	Centroid
+======================time=192.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.139485, 0.019190
+
+Cluster	Size	Centroid
+======================time=193.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.040754, 0.064546
+
+Cluster	Size	Centroid
+======================time=194.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=18
+- Net velocity in the x and y respectively are: 0.075046, -0.022536
+
+Cluster	Size	Centroid
+======================time=195.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.005545, 0.074870
+
+Cluster	Size	Centroid
+======================time=196.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.073789, -0.046969
+
+Cluster	Size	Centroid
+======================time=197.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=15
+- Net velocity in the x and y respectively are: -0.006764, 0.002627
+
+Cluster	Size	Centroid
+======================time=198.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=15
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=199.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=200.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=201.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=202.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=203.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=204.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=205.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=206.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=207.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=18
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=208.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=209.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=210.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=211.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=212.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=213.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=214.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=215.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=216.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=217.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=218.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=219.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=16
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=220.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=221.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=222.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=223.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=224.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=225.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=226.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=227.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=228.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=229.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=230.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=231.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=232.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=233.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=234.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=235.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=236.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=237.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=238.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=239.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=240.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=241.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=242.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=243.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=244.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=245.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=246.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=247.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=248.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=249.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=250.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=251.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=252.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=253.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=254.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=15
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=255.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=256.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=257.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=258.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=259.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=260.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=261.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=262.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=263.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=264.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=18
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=265.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=266.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=15
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=267.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=268.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=269.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=270.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=271.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=272.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=273.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=274.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=275.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=16
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=276.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=277.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=278.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=279.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=280.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=281.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=282.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=283.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=284.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=285.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=286.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=287.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=288.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=289.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=290.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=15
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=291.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=292.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=293.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=294.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=295.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=296.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=297.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=298.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=299.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=300.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=301.100006=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=302.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=303.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=304.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=305.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=306.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=307.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=308.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=309.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=310.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=311.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=312.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=313.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=314.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=315.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=316.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=317.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=318.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=319.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=320.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=321.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=322.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=323.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=324.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=325.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=326.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=18
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=327.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=328.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=329.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=330.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=331.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=332.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=333.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=334.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=335.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=336.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=337.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=338.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=339.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=340.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=341.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=342.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=343.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=344.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=345.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=346.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=347.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=348.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=349.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=350.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=351.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=352.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=353.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=354.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=355.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=356.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=357.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=358.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=359.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=360.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=16
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=361.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=362.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=363.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=364.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=365.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=366.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=367.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=368.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=369.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=370.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=371.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=372.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=373.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=374.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=375.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=376.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=377.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=378.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=379.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=18
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=380.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=381.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=382.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=383.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=384.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=385.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=386.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=387.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=388.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=389.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=390.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=391.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=392.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=393.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=394.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=395.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=396.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=397.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=398.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=399.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=400.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=401.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=402.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=403.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=404.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=405.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=406.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=407.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=408.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=409.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=410.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=411.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=412.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=413.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=414.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=415.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=416.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=417.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=418.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=419.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=420.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=421.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=422.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=423.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=424.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=425.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=3
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=426.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=427.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=428.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=429.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=430.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=431.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=432.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=433.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=434.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=435.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=436.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=437.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=438.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=439.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=440.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=441.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=442.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=443.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=444.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=445.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=446.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=447.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=448.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=449.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=450.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=451.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=452.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=453.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=454.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=455.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=456.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=457.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=458.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=459.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=460.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=461.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=462.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=463.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=14
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=464.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=465.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=16
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=466.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=467.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=468.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=469.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=470.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=471.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=472.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=473.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=474.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=475.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=476.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=477.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=478.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=479.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=480.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=481.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=482.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=483.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=484.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=8
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=485.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=18
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=486.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=487.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=488.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=6
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=489.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=490.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=491.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=12
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=492.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=9
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=493.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=494.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=7
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=495.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=2
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=496.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=13
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=497.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=10
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=498.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=5
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=499.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=4
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid
+======================time=500.000000=================================
+- Number of clusters: 0
+- [Cluster 1] is the one with the maximum number of Ants=11
+- Net velocity in the x and y respectively are: 0.000000, 0.000000
+
+Cluster	Size	Centroid

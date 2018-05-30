@@ -1,0 +1,7 @@
+#PBS -N test
+#PBS -l nodes=20:ppn=4
+#PBS -l pmem=2gb
+#PBS -l walltime=00:5:00
+#PBS -q flamel
+#PBS -M skim3026@gatech.edu
+./paraTest

@@ -1,0 +1,3185 @@
+======================time=0.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=1000
+- Net velocity in the x and y respectively are: 0.123350, 0.805294
+
+Cluster	Size	Centroid
+1	1000 	(0.850000,0.271104)
+======================time=1.100000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=1000
+- Net velocity in the x and y respectively are: 0.076000, 0.056363
+
+Cluster	Size	Centroid
+1	1000 	(0.438093,0.372430)
+======================time=2.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=992
+- Net velocity in the x and y respectively are: 0.085865, 0.112071
+
+Cluster	Size	Centroid
+1	992 	(0.843095,0.445780)
+======================time=3.000000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=981
+- Net velocity in the x and y respectively are: 0.119687, 0.128089
+
+Cluster	Size	Centroid
+1	981 	(0.482161,0.478326)
+2	5 	(0.440591,12.306299)
+======================time=4.000000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=971
+- Net velocity in the x and y respectively are: 0.104402, 0.130119
+
+Cluster	Size	Centroid
+1	971 	(0.500559,0.478394)
+======================time=5.100000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=958
+- Net velocity in the x and y respectively are: 0.058339, 0.112155
+
+Cluster	Size	Centroid
+1	958 	(1.027687,0.518075)
+2	6 	(0.935764,12.214300)
+======================time=6.100000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=949
+- Net velocity in the x and y respectively are: 0.089236, 0.146639
+
+Cluster	Size	Centroid
+1	949 	(1.009184,0.439457)
+======================time=7.100000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=934
+- Net velocity in the x and y respectively are: 0.089967, 0.142644
+
+Cluster	Size	Centroid
+1	934 	(1.127630,0.455911)
+2	4 	(1.720881,12.358745)
+======================time=8.100000=================================
+- Number of clusters: 4
+- [Cluster 1] is the one with the maximum number of Ants=913
+- Net velocity in the x and y respectively are: 0.095046, 0.133222
+
+Cluster	Size	Centroid
+1	913 	(1.208666,0.423172)
+2	4 	(0.449149,12.644909)
+3	2 	(10.183285,13.610738)
+4	6 	(18.768909,14.790536)
+======================time=9.100000=================================
+- Number of clusters: 3
+- [Cluster 1] is the one with the maximum number of Ants=894
+- Net velocity in the x and y respectively are: 0.109735, 0.175698
+
+Cluster	Size	Centroid
+1	894 	(3.051111,0.986200)
+2	5 	(1.168747,1.050568)
+3	3 	(18.793743,15.016557)
+======================time=10.100000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=883
+- Net velocity in the x and y respectively are: 0.057182, 0.175837
+
+Cluster	Size	Centroid
+1	883 	(3.212514,1.040387)
+======================time=11.100000=================================
+- Number of clusters: 1
+- [Cluster 1] is the one with the maximum number of Ants=880
+- Net velocity in the x and y respectively are: 0.084624, 0.148019
+
+Cluster	Size	Centroid
+1	880 	(2.996703,0.480550)
+======================time=12.100000=================================
+- Number of clusters: 2
+- [Cluster 1] is the one with the maximum number of Ants=860
+- Net velocity in the x and y respectively are: 0.066036, 0.143016
+
+Cluster	Size	Centroid
+1	860 	(2.973770,0.501987)
+2	6 	(3.711966,12.626993)
+======================time=13.100000=================================
+- Number of clusters: 6
+- [Cluster 3] is the one with the maximum number of Ants=822
+- Net velocity in the x and y respectively are: 0.083766, 0.159610
+
+Cluster	Size	Centroid
+1	8 	(3.446875,1.066687)
+2	2 	(4.312770,0.601388)
+3	822 	(5.610567,0.487848)
+4	8 	(0.479566,9.202348)
+5	4 	(2.965952,12.469449)
+6	4 	(18.129736,15.841421)
+======================time=14.100000=================================
+- Number of clusters: 7
+- [Cluster 2] is the one with the maximum number of Ants=816
+- Net velocity in the x and y respectively are: 0.089705, 0.171164
+
+Cluster	Size	Centroid
+1	10 	(3.545508,1.034913)
+2	816 	(6.002126,0.432457)
+3	7 	(1.885733,3.438138)
+4	3 	(5.382348,12.106474)
+5	4 	(3.326508,12.261482)
+6	3 	(3.637478,12.948155)
+7	7 	(15.289496,15.691464)
+======================time=15.100000=================================
+- Number of clusters: 8
+- [Cluster 2] is the one with the maximum number of Ants=793
+- Net velocity in the x and y respectively are: 0.070009, 0.179116
+
+Cluster	Size	Centroid
+1	5 	(3.605822,1.208060)
+2	793 	(5.936325,0.462570)
+3	7 	(1.797709,3.456136)
+4	5 	(1.159464,10.023257)
+5	4 	(3.478776,12.540665)
+6	4 	(4.732515,12.042348)
+7	12 	(6.236846,12.430512)
+8	5 	(15.633438,15.968107)
+======================time=16.100000=================================
+- Number of clusters: 8
+- [Cluster 3] is the one with the maximum number of Ants=769
+- Net velocity in the x and y respectively are: 0.095027, 0.163268
+
+Cluster	Size	Centroid
+1	4 	(4.416532,0.575165)
+2	8 	(6.006286,0.477976)
+3	769 	(9.438740,0.491201)
+4	8 	(0.511721,6.642760)
+5	4 	(3.732081,12.175000)
+6	5 	(6.276361,12.997863)
+7	4 	(12.570208,14.479074)
+8	5 	(15.135877,14.927961)
+======================time=17.100000=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=771
+- Net velocity in the x and y respectively are: 0.089395, 0.161344
+
+Cluster	Size	Centroid
+1	771 	(9.639762,0.490241)
+2	4 	(4.276426,1.379282)
+3	4 	(6.383859,1.107017)
+4	4 	(0.514789,4.492594)
+5	4 	(3.529673,15.419825)
+6	2 	(16.787197,15.504831)
+======================time=18.100000=================================
+- Number of clusters: 6
+- [Cluster 2] is the one with the maximum number of Ants=757
+- Net velocity in the x and y respectively are: 0.055856, 0.162694
+
+Cluster	Size	Centroid
+1	6 	(6.868354,0.463662)
+2	757 	(8.478139,1.601812)
+3	3 	(6.376177,1.803891)
+4	4 	(6.145606,12.865253)
+5	1 	(6.488576,11.843986)
+6	4 	(13.499384,14.988673)
+======================time=19.000000=================================
+- Number of clusters: 5
+- [Cluster 1] is the one with the maximum number of Ants=740
+- Net velocity in the x and y respectively are: 0.044119, 0.185323
+
+Cluster	Size	Centroid
+1	740 	(9.562792,0.494677)
+2	4 	(7.924109,1.205528)
+3	5 	(1.884388,2.982267)
+4	8 	(0.510509,6.682059)
+5	4 	(18.594532,21.356737)
+======================time=20.000000=================================
+- Number of clusters: 5
+- [Cluster 1] is the one with the maximum number of Ants=738
+- Net velocity in the x and y respectively are: 0.033126, 0.170400
+
+Cluster	Size	Centroid
+1	738 	(6.228549,0.481803)
+2	4 	(7.340535,1.859989)
+3	3 	(4.186067,2.376909)
+4	4 	(6.231172,14.202868)
+5	6 	(19.096121,18.869572)
+======================time=21.000000=================================
+- Number of clusters: 7
+- [Cluster 2] is the one with the maximum number of Ants=705
+- Net velocity in the x and y respectively are: 0.073807, 0.178853
+
+Cluster	Size	Centroid
+1	7 	(6.135114,0.517410)
+2	705 	(8.957492,1.543369)
+3	2 	(7.410024,1.855018)
+4	2 	(3.402828,4.449909)
+5	7 	(5.971527,12.197205)
+6	5 	(9.374655,12.979666)
+7	4 	(11.231582,15.314363)
+======================time=22.000000=================================
+- Number of clusters: 4
+- [Cluster 1] is the one with the maximum number of Ants=715
+- Net velocity in the x and y respectively are: 0.039677, 0.188607
+
+Cluster	Size	Centroid
+1	715 	(6.793653,0.551571)
+2	6 	(2.970917,4.066076)
+3	4 	(3.037442,12.248928)
+4	3 	(10.673919,14.365076)
+======================time=23.000000=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=689
+- Net velocity in the x and y respectively are: 0.063512, 0.206336
+
+Cluster	Size	Centroid
+1	689 	(7.105917,0.725508)
+2	3 	(9.024832,1.761323)
+3	5 	(9.833874,0.500753)
+4	4 	(2.615261,3.258018)
+5	3 	(3.402008,5.296276)
+6	5 	(3.431087,9.465915)
+7	1 	(4.718724,10.283390)
+8	5 	(12.386242,14.706903)
+9	4 	(19.071810,18.184374)
+======================time=24.000000=================================
+- Number of clusters: 6
+- [Cluster 2] is the one with the maximum number of Ants=665
+- Net velocity in the x and y respectively are: 0.047837, 0.189300
+
+Cluster	Size	Centroid
+1	4 	(7.041584,0.789843)
+2	665 	(9.093112,1.686993)
+3	4 	(2.703357,3.731836)
+4	18 	(4.820301,4.178255)
+5	3 	(12.571037,14.989887)
+6	3 	(18.742846,17.710697)
+======================time=25.000000=================================
+- Number of clusters: 11
+- [Cluster 3] is the one with the maximum number of Ants=628
+- Net velocity in the x and y respectively are: 0.028145, 0.222751
+
+Cluster	Size	Centroid
+1	11 	(9.224270,0.509715)
+2	11 	(12.022346,0.569265)
+3	628 	(15.545955,0.584012)
+4	2 	(12.407143,1.846157)
+5	7 	(3.393721,8.077835)
+6	3 	(2.264629,9.189206)
+7	4 	(0.589059,11.627360)
+8	3 	(4.241764,10.147883)
+9	7 	(6.720259,12.296885)
+10	6 	(10.331236,15.248738)
+11	7 	(18.228777,18.399891)
+======================time=26.000000=================================
+- Number of clusters: 6
+- [Cluster 2] is the one with the maximum number of Ants=642
+- Net velocity in the x and y respectively are: 0.047716, 0.193970
+
+Cluster	Size	Centroid
+1	7 	(9.453937,0.519051)
+2	642 	(12.010066,0.805819)
+3	6 	(4.267730,6.130111)
+4	2 	(3.981147,9.358007)
+5	4 	(13.236812,15.325563)
+6	4 	(18.541382,20.433035)
+======================time=27.000000=================================
+- Number of clusters: 10
+- [Cluster 2] is the one with the maximum number of Ants=596
+- Net velocity in the x and y respectively are: 0.030825, 0.211464
+
+Cluster	Size	Centroid
+1	5 	(12.139571,0.902472)
+2	596 	(15.058608,0.505143)
+3	4 	(9.698525,1.168586)
+4	3 	(13.343979,1.507612)
+5	3 	(6.135221,3.096150)
+6	4 	(3.494558,6.361970)
+7	7 	(3.552567,8.700280)
+8	28 	(5.564328,12.465073)
+9	5 	(9.420780,15.171055)
+10	10 	(19.089716,18.413839)
+======================time=28.000000=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=617
+- Net velocity in the x and y respectively are: 0.082640, 0.188041
+
+Cluster	Size	Centroid
+1	617 	(12.096577,1.010520)
+2	3 	(13.968057,0.947315)
+3	9 	(3.731118,8.983198)
+4	5 	(10.012961,11.980433)
+5	3 	(12.779984,14.363194)
+6	7 	(9.579276,15.754185)
+7	4 	(11.724380,15.648299)
+======================time=29.000000=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=607
+- Net velocity in the x and y respectively are: 0.069475, 0.211940
+
+Cluster	Size	Centroid
+1	607 	(12.458039,0.942646)
+2	4 	(9.631024,1.471379)
+3	2 	(6.623155,5.523115)
+4	5 	(6.588952,12.243558)
+5	3 	(7.435961,11.992963)
+6	4 	(12.828053,15.465585)
+7	4 	(9.621471,15.136729)
+8	5 	(16.426231,15.272881)
+======================time=30.000000=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=585
+- Net velocity in the x and y respectively are: 0.031773, 0.243954
+
+Cluster	Size	Centroid
+1	585 	(12.541748,1.016966)
+2	4 	(9.724958,1.636802)
+3	30 	(5.929680,5.652546)
+4	4 	(4.129220,7.796408)
+5	4 	(4.530932,8.983570)
+6	6 	(5.886089,12.193920)
+7	8 	(13.086467,15.043118)
+======================time=31.000000=================================
+- Number of clusters: 7
+- [Cluster 2] is the one with the maximum number of Ants=544
+- Net velocity in the x and y respectively are: 0.044186, 0.188579
+
+Cluster	Size	Centroid
+1	5 	(12.566894,1.071732)
+2	544 	(15.020501,0.460902)
+3	13 	(7.048739,2.884739)
+4	14 	(5.955770,6.022489)
+5	15 	(7.410080,9.018157)
+6	11 	(9.041926,12.476793)
+7	5 	(12.017365,14.329048)
+======================time=32.000000=================================
+- Number of clusters: 6
+- [Cluster 2] is the one with the maximum number of Ants=550
+- Net velocity in the x and y respectively are: 0.036410, 0.180709
+
+Cluster	Size	Centroid
+1	8 	(12.441785,0.429612)
+2	550 	(15.285099,0.475745)
+3	16 	(6.634699,5.066429)
+4	7 	(7.390745,9.105983)
+5	2 	(6.008887,9.272644)
+6	4 	(19.526609,21.281456)
+======================time=33.000000=================================
+- Number of clusters: 10
+- [Cluster 2] is the one with the maximum number of Ants=531
+- Net velocity in the x and y respectively are: 0.108662, 0.146477
+
+Cluster	Size	Centroid
+1	8 	(12.389639,0.461782)
+2	531 	(15.448460,0.458743)
+3	6 	(10.188766,3.915687)
+4	4 	(6.976039,4.408752)
+5	3 	(9.096439,4.497979)
+6	5 	(3.856046,6.409850)
+7	7 	(7.531654,9.313421)
+8	5 	(5.912600,7.681505)
+9	4 	(3.726964,24.427143)
+10	4 	(18.481577,22.486403)
+======================time=34.000000=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=537
+- Net velocity in the x and y respectively are: 0.081798, 0.200417
+
+Cluster	Size	Centroid
+1	537 	(15.506349,0.491562)
+2	4 	(7.424009,3.366450)
+3	3 	(6.186689,5.393515)
+4	4 	(6.238663,12.198467)
+5	4 	(9.091824,12.050314)
+6	2 	(10.086165,12.125363)
+======================time=35.000000=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=526
+- Net velocity in the x and y respectively are: 0.023600, 0.204685
+
+Cluster	Size	Centroid
+1	526 	(15.450680,0.482433)
+2	10 	(5.353167,6.311999)
+3	4 	(9.227419,14.649794)
+4	4 	(12.644539,15.454823)
+5	12 	(19.207577,17.520641)
+6	4 	(18.644026,21.604317)
+======================time=36.000000=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=523
+- Net velocity in the x and y respectively are: 0.030552, 0.244809
+
+Cluster	Size	Centroid
+1	523 	(14.938781,0.459407)
+2	12 	(10.435162,4.161924)
+3	4 	(4.341592,6.481453)
+4	3 	(5.395830,6.559236)
+5	4 	(7.243237,6.614362)
+6	4 	(9.766140,15.650242)
+7	4 	(12.633904,15.661942)
+8	4 	(18.265493,21.305882)
+9	4 	(18.241407,30.012098)
+======================time=37.000000=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=493
+- Net velocity in the x and y respectively are: 0.020767, 0.191855
+
+Cluster	Size	Centroid
+1	493 	(14.938781,0.481729)
+2	9 	(10.079096,3.470860)
+3	2 	(12.224253,13.974808)
+4	7 	(18.060633,18.545361)
+5	8 	(18.560154,21.609743)
+6	2 	(19.532848,18.085312)
+======================time=38.000000=================================
+- Number of clusters: 12
+- [Cluster 3] is the one with the maximum number of Ants=476
+- Net velocity in the x and y respectively are: 0.005675, 0.191266
+
+Cluster	Size	Centroid
+1	6 	(15.606896,0.442168)
+2	4 	(16.811171,0.860587)
+3	476 	(18.053619,0.803926)
+4	4 	(6.587313,3.497065)
+5	4 	(12.601341,3.526483)
+6	4 	(9.003297,12.108462)
+7	4 	(10.415453,11.582424)
+8	4 	(12.325139,14.321832)
+9	4 	(13.575078,15.276772)
+10	6 	(19.123301,21.586061)
+11	4 	(16.247726,24.275452)
+12	4 	(18.478661,29.351843)
+======================time=39.000000=================================
+- Number of clusters: 7
+- [Cluster 2] is the one with the maximum number of Ants=486
+- Net velocity in the x and y respectively are: 0.134338, 0.178355
+
+Cluster	Size	Centroid
+1	12 	(15.562259,0.455874)
+2	486 	(18.013374,0.930755)
+3	4 	(6.471020,3.031585)
+4	4 	(15.704832,21.281013)
+5	2 	(19.467941,19.626740)
+6	4 	(18.833704,21.281113)
+7	4 	(19.495359,24.727257)
+======================time=40.000000=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=465
+- Net velocity in the x and y respectively are: 0.091708, 0.213733
+
+Cluster	Size	Centroid
+1	465 	(16.399214,1.132524)
+2	4 	(11.438275,3.197173)
+3	11 	(9.148011,6.539327)
+4	2 	(9.365281,8.207932)
+5	4 	(6.777817,12.407928)
+6	4 	(6.598038,15.015666)
+7	12 	(11.934174,14.580956)
+8	6 	(18.484390,26.474901)
+9	4 	(18.664129,30.122238)
+======================time=41.000000=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=466
+- Net velocity in the x and y respectively are: 0.047487, 0.223099
+
+Cluster	Size	Centroid
+1	466 	(16.309790,1.215495)
+2	2 	(12.097014,4.548974)
+3	4 	(9.506839,8.290316)
+4	4 	(7.455538,12.304322)
+5	3 	(16.010939,16.164946)
+6	7 	(18.386934,24.490849)
+7	4 	(19.590946,27.696636)
+======================time=42.000000=================================
+- Number of clusters: 10
+- [Cluster 2] is the one with the maximum number of Ants=438
+- Net velocity in the x and y respectively are: 0.019360, 0.301043
+
+Cluster	Size	Centroid
+1	6 	(15.915380,0.499582)
+2	438 	(17.941317,0.905303)
+3	13 	(12.987484,3.333140)
+4	8 	(9.324206,6.689820)
+5	4 	(7.284930,12.439514)
+6	4 	(9.870198,12.308194)
+7	4 	(11.780912,15.349561)
+8	5 	(15.526980,15.293159)
+9	6 	(15.254983,18.534670)
+10	4 	(17.348383,30.470581)
+======================time=43.000000=================================
+- Number of clusters: 12
+- [Cluster 2] is the one with the maximum number of Ants=440
+- Net velocity in the x and y respectively are: 0.040308, 0.248572
+
+Cluster	Size	Centroid
+1	4 	(12.197831,2.404542)
+2	440 	(15.918112,1.860970)
+3	8 	(9.525929,6.472687)
+4	12 	(15.603708,15.497600)
+5	4 	(12.882598,15.176637)
+6	6 	(16.225414,17.635794)
+7	4 	(15.676293,21.601719)
+8	4 	(18.079979,23.349098)
+9	4 	(19.560020,20.975201)
+10	4 	(17.948595,30.326429)
+11	3 	(18.895863,24.249176)
+12	4 	(19.502285,28.431187)
+======================time=44.000000=================================
+- Number of clusters: 10
+- [Cluster 1] is the one with the maximum number of Ants=424
+- Net velocity in the x and y respectively are: -0.005650, 0.259506
+
+Cluster	Size	Centroid
+1	424 	(18.018782,0.827771)
+2	6 	(12.038130,3.096544)
+3	4 	(15.308612,2.003178)
+4	3 	(13.301628,4.039743)
+5	8 	(9.645224,6.681864)
+6	4 	(11.967693,12.439863)
+7	4 	(9.713454,18.060444)
+8	3 	(16.592522,18.588148)
+9	6 	(18.249743,24.517677)
+10	4 	(18.026487,30.929520)
+======================time=45.000000=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=429
+- Net velocity in the x and y respectively are: -0.000692, 0.279819
+
+Cluster	Size	Centroid
+1	429 	(18.065609,1.145126)
+2	3 	(12.706264,3.078426)
+3	4 	(9.331246,8.741056)
+4	6 	(13.626000,12.624792)
+5	6 	(18.347918,22.371889)
+6	4 	(18.843534,24.111731)
+7	8 	(18.421230,30.655888)
+======================time=46.000000=================================
+- Number of clusters: 10
+- [Cluster 1] is the one with the maximum number of Ants=407
+- Net velocity in the x and y respectively are: 0.051931, 0.224273
+
+Cluster	Size	Centroid
+1	407 	(17.913132,1.112839)
+2	3 	(12.582633,5.184201)
+3	6 	(12.485647,3.128244)
+4	4 	(13.953046,3.745697)
+5	4 	(9.478547,9.048527)
+6	4 	(12.300314,11.993629)
+7	3 	(15.524403,16.195976)
+8	4 	(15.158081,19.086157)
+9	16 	(18.300442,23.274839)
+10	7 	(18.461840,30.867012)
+======================time=47.000000=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=440
+- Net velocity in the x and y respectively are: 0.073901, 0.218540
+
+Cluster	Size	Centroid
+1	440 	(17.260988,1.202041)
+2	6 	(11.996520,3.509056)
+3	4 	(9.533178,12.123757)
+4	2 	(16.485125,18.536684)
+5	16 	(17.837933,24.211187)
+6	1 	(19.000147,22.388121)
+======================time=48.000000=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=422
+- Net velocity in the x and y respectively are: 0.016172, 0.168118
+
+Cluster	Size	Centroid
+1	422 	(17.268383,1.884040)
+2	4 	(12.693846,4.531744)
+3	4 	(9.517635,15.200240)
+4	9 	(16.470703,18.122986)
+5	17 	(18.483309,23.993500)
+6	4 	(18.121826,21.366737)
+7	8 	(19.488127,21.280476)
+======================time=49.000000=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=414
+- Net velocity in the x and y respectively are: 0.103707, 0.192040
+
+Cluster	Size	Centroid
+1	414 	(18.055386,1.295191)
+2	3 	(14.288070,3.124021)
+3	6 	(9.491221,10.731381)
+4	4 	(9.183046,12.771357)
+5	7 	(11.252143,13.013322)
+6	5 	(12.391832,16.215351)
+7	6 	(17.104662,18.028732)
+8	10 	(17.981129,24.427675)
+9	12 	(17.919580,20.992199)
+======================time=50.000000=================================
+- Number of clusters: 10
+- [Cluster 3] is the one with the maximum number of Ants=431
+- Net velocity in the x and y respectively are: 0.054013, 0.198141
+
+Cluster	Size	Centroid
+1	4 	(15.460389,0.493329)
+2	4 	(17.101429,1.794993)
+3	431 	(18.024395,1.297202)
+4	7 	(8.961766,6.405390)
+5	4 	(10.483655,7.187281)
+6	4 	(9.166234,9.721392)
+7	4 	(9.582537,12.785267)
+8	4 	(12.794524,15.692223)
+9	3 	(15.464922,16.036453)
+10	8 	(18.920151,24.566528)
+======================time=51.000000=================================
+- Number of clusters: 10
+- [Cluster 2] is the one with the maximum number of Ants=430
+- Net velocity in the x and y respectively are: 0.044948, 0.245234
+
+Cluster	Size	Centroid
+1	4 	(15.631523,0.520363)
+2	430 	(17.918755,1.365660)
+3	4 	(9.330056,7.524094)
+4	10 	(9.152099,9.233800)
+5	4 	(9.539741,6.192676)
+6	4 	(15.734816,18.451761)
+7	4 	(12.655411,21.550934)
+8	4 	(12.582848,18.097523)
+9	12 	(18.474337,24.354471)
+10	4 	(18.420843,30.284002)
+======================time=52.000000=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=394
+- Net velocity in the x and y respectively are: 0.011761, 0.159919
+
+Cluster	Size	Centroid
+1	394 	(15.831671,2.298331)
+2	4 	(12.088226,3.603083)
+3	17 	(13.125617,5.864001)
+4	3 	(12.016824,9.332428)
+5	12 	(12.084700,12.168322)
+6	4 	(9.758748,12.270735)
+7	8 	(15.614043,18.646095)
+8	11 	(18.353371,24.414125)
+9	8 	(18.539963,31.239202)
+======================time=53.000000=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=436
+- Net velocity in the x and y respectively are: -0.025722, 0.164174
+
+Cluster	Size	Centroid
+1	436 	(15.880646,2.295246)
+2	5 	(12.572063,5.073049)
+3	4 	(9.033370,10.636144)
+4	3 	(11.931262,12.243273)
+5	4 	(9.745925,6.292829)
+6	5 	(15.305709,18.413889)
+7	6 	(18.371027,33.205849)
+8	4 	(18.814648,27.319321)
+9	4 	(19.482046,30.001001)
+======================time=54.000000=================================
+- Number of clusters: 4
+- [Cluster 1] is the one with the maximum number of Ants=417
+- Net velocity in the x and y respectively are: -0.088930, 0.157764
+
+Cluster	Size	Centroid
+1	417 	(18.070341,1.357563)
+2	4 	(15.311696,18.608574)
+3	10 	(17.917990,24.047920)
+4	7 	(18.258955,27.276291)
+======================time=55.000000=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=421
+- Net velocity in the x and y respectively are: -0.051997, 0.132096
+
+Cluster	Size	Centroid
+1	421 	(16.610399,1.632754)
+2	4 	(12.025869,4.704974)
+3	6 	(9.730846,9.159139)
+4	5 	(9.643258,12.056414)
+5	3 	(15.800673,18.068386)
+6	6 	(19.094597,27.146219)
+7	9 	(18.383553,24.568575)
+8	3 	(18.181400,23.281658)
+9	10 	(18.158987,33.714520)
+======================time=56.000000=================================
+- Number of clusters: 5
+- [Cluster 1] is the one with the maximum number of Ants=415
+- Net velocity in the x and y respectively are: -0.096476, 0.109733
+
+Cluster	Size	Centroid
+1	415 	(15.976977,2.216544)
+2	6 	(9.681697,8.998254)
+3	12 	(12.714059,11.597220)
+4	7 	(18.150213,27.436939)
+5	6 	(18.787285,24.812796)
+======================time=57.000000=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=381
+- Net velocity in the x and y respectively are: -0.032427, 0.188245
+
+Cluster	Size	Centroid
+1	381 	(18.022778,1.232582)
+2	9 	(12.797653,11.766572)
+3	4 	(12.133975,18.460035)
+4	4 	(13.721528,15.707765)
+5	4 	(15.676341,18.095663)
+6	12 	(18.796976,20.952475)
+7	9 	(18.856211,27.708002)
+8	4 	(18.471951,24.477390)
+======================time=58.000000=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=388
+- Net velocity in the x and y respectively are: -0.012331, 0.215774
+
+Cluster	Size	Centroid
+1	388 	(17.948677,1.173708)
+2	7 	(12.695645,12.051899)
+3	7 	(12.482141,13.830350)
+4	8 	(14.967599,18.162403)
+5	5 	(15.215375,27.849928)
+6	11 	(18.594414,25.656418)
+7	6 	(18.595276,30.319880)
+======================time=59.000000=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=397
+- Net velocity in the x and y respectively are: 0.114250, 0.211095
+
+Cluster	Size	Centroid
+1	397 	(17.859037,1.069083)
+2	3 	(12.763916,14.039237)
+3	4 	(15.614007,21.370331)
+4	6 	(18.408108,28.126520)
+5	6 	(18.466404,29.948078)
+6	4 	(18.913958,24.070921)
+======================time=60.000000=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=380
+- Net velocity in the x and y respectively are: 0.057451, 0.250955
+
+Cluster	Size	Centroid
+1	380 	(18.062645,1.061329)
+2	7 	(12.710800,9.363682)
+3	4 	(12.499283,10.837566)
+4	8 	(13.009857,13.600461)
+5	4 	(14.997178,21.468174)
+6	8 	(18.494867,30.032290)
+7	6 	(18.872969,27.732357)
+======================time=61.000000=================================
+- Number of clusters: 10
+- [Cluster 1] is the one with the maximum number of Ants=381
+- Net velocity in the x and y respectively are: 0.038881, 0.284847
+
+Cluster	Size	Centroid
+1	381 	(18.060072,1.033311)
+2	4 	(13.586823,6.739588)
+3	3 	(13.686801,15.458053)
+4	6 	(15.062389,19.573620)
+5	2 	(15.543818,18.062807)
+6	4 	(15.178312,27.730822)
+7	11 	(17.883404,23.714710)
+8	4 	(6.998170,33.208344)
+9	6 	(18.175407,28.409458)
+10	7 	(18.884453,27.014662)
+======================time=62.000000=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=377
+- Net velocity in the x and y respectively are: 0.046139, 0.291872
+
+Cluster	Size	Centroid
+1	377 	(17.931143,1.169082)
+2	4 	(15.599505,1.186252)
+3	16 	(12.464326,8.925685)
+4	3 	(12.629466,12.721238)
+5	4 	(12.578736,27.769419)
+6	6 	(18.518129,26.553833)
+7	8 	(18.387838,24.440454)
+8	3 	(18.324406,25.538090)
+======================time=63.000000=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=355
+- Net velocity in the x and y respectively are: 0.064023, 0.252909
+
+Cluster	Size	Centroid
+1	355 	(17.922617,1.204777)
+2	12 	(12.033574,9.555356)
+3	4 	(12.668923,12.321657)
+4	4 	(15.557137,18.568304)
+5	3 	(15.974927,19.824282)
+6	3 	(16.376764,18.061420)
+7	9 	(18.593800,27.057777)
+8	12 	(18.210617,24.554739)
+======================time=64.000000=================================
+- Number of clusters: 11
+- [Cluster 1] is the one with the maximum number of Ants=358
+- Net velocity in the x and y respectively are: 0.021448, 0.215978
+
+Cluster	Size	Centroid
+1	358 	(17.649094,2.379617)
+2	13 	(12.770579,9.053923)
+3	5 	(12.847411,12.476744)
+4	2 	(16.997356,18.053263)
+5	3 	(16.689833,18.975971)
+6	5 	(16.463680,21.651930)
+7	4 	(17.848736,27.077984)
+8	5 	(18.210167,24.722946)
+9	3 	(19.500696,23.989462)
+10	4 	(19.452387,25.436220)
+11	3 	(18.488369,28.053076)
+======================time=65.000000=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=367
+- Net velocity in the x and y respectively are: 0.011404, 0.245587
+
+Cluster	Size	Centroid
+1	367 	(17.967905,2.450057)
+2	4 	(15.615850,1.288976)
+3	5 	(12.982305,12.927068)
+4	9 	(16.435196,17.902937)
+5	4 	(15.664512,27.687822)
+6	14 	(18.406429,24.860966)
+7	7 	(18.305496,33.617702)
+8	4 	(18.622400,28.158396)
+======================time=66.000000=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=357
+- Net velocity in the x and y respectively are: -0.066669, 0.241111
+
+Cluster	Size	Centroid
+1	357 	(17.825867,2.598386)
+2	6 	(12.942153,9.395477)
+3	4 	(11.918180,9.216683)
+4	5 	(15.503865,19.106760)
+5	7 	(18.430269,33.371883)
+6	14 	(18.325790,24.975248)
+7	4 	(18.724865,36.259129)
+======================time=67.000000=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=368
+- Net velocity in the x and y respectively are: -0.093141, 0.242412
+
+Cluster	Size	Centroid
+1	368 	(17.946636,2.664771)
+2	7 	(12.992684,9.615184)
+3	2 	(16.318512,18.045021)
+4	3 	(15.539425,18.693409)
+5	4 	(18.159634,30.242058)
+6	4 	(18.178408,26.412861)
+7	7 	(18.972343,33.623440)
+======================time=68.000000=================================
+- Number of clusters: 5
+- [Cluster 1] is the one with the maximum number of Ants=338
+- Net velocity in the x and y respectively are: -0.005306, 0.175241
+
+Cluster	Size	Centroid
+1	338 	(18.094173,2.676501)
+2	4 	(16.445738,1.315297)
+3	4 	(15.377849,18.074001)
+4	11 	(18.705008,23.551523)
+5	6 	(18.143152,33.940815)
+======================time=69.000000=================================
+- Number of clusters: 4
+- [Cluster 1] is the one with the maximum number of Ants=350
+- Net velocity in the x and y respectively are: 0.013310, 0.056850
+
+Cluster	Size	Centroid
+1	350 	(18.060776,2.598691)
+2	4 	(15.323631,18.357071)
+3	9 	(18.516100,34.243313)
+4	4 	(17.992041,25.000759)
+======================time=70.000000=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=332
+- Net velocity in the x and y respectively are: 0.001412, 0.035525
+
+Cluster	Size	Centroid
+1	332 	(17.934994,2.756605)
+2	4 	(15.344155,14.914554)
+3	2 	(19.191677,23.352301)
+4	9 	(18.665449,23.985327)
+5	5 	(18.441782,27.449373)
+6	5 	(19.078344,33.274788)
+======================time=71.000000=================================
+- Number of clusters: 5
+- [Cluster 1] is the one with the maximum number of Ants=337
+- Net velocity in the x and y respectively are: 0.029101, 0.116094
+
+Cluster	Size	Centroid
+1	337 	(17.915567,3.036108)
+2	7 	(15.350516,4.662996)
+3	4 	(12.508569,9.394299)
+4	4 	(15.316431,18.753141)
+5	4 	(19.099762,24.544424)
+======================time=72.000000=================================
+- Number of clusters: 10
+- [Cluster 1] is the one with the maximum number of Ants=314
+- Net velocity in the x and y respectively are: 0.091859, 0.219867
+
+Cluster	Size	Centroid
+1	314 	(17.738955,3.004303)
+2	12 	(18.394924,1.694041)
+3	4 	(15.205188,4.742524)
+4	7 	(13.825584,9.536993)
+5	6 	(15.058416,18.277037)
+6	2 	(16.770638,16.609360)
+7	5 	(15.650691,21.354668)
+8	7 	(17.984188,27.375198)
+9	6 	(18.665737,24.286779)
+10	6 	(18.726070,33.202885)
+======================time=73.000000=================================
+- Number of clusters: 7
+- [Cluster 2] is the one with the maximum number of Ants=339
+- Net velocity in the x and y respectively are: 0.081304, 0.196493
+
+Cluster	Size	Centroid
+1	4 	(11.925309,0.556543)
+2	339 	(17.528399,3.055320)
+3	4 	(15.584163,3.004000)
+4	5 	(18.396807,23.976320)
+5	5 	(17.568857,34.757622)
+6	4 	(18.704931,29.806835)
+7	6 	(19.007944,33.283844)
+======================time=74.000000=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=333
+- Net velocity in the x and y respectively are: 0.033839, 0.163045
+
+Cluster	Size	Centroid
+1	333 	(17.541645,3.004502)
+2	6 	(15.708489,3.014391)
+3	4 	(12.709265,6.788748)
+4	4 	(18.936985,27.025438)
+5	3 	(19.245344,25.288166)
+6	4 	(19.004198,34.266945)
+======================time=75.000000=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=335
+- Net velocity in the x and y respectively are: -0.094221, 0.235489
+
+Cluster	Size	Centroid
+1	335 	(17.238667,3.214236)
+2	4 	(13.320158,9.320604)
+3	4 	(18.182800,28.248734)
+4	9 	(18.467653,24.333761)
+5	4 	(19.062973,27.352871)
+6	5 	(18.512848,33.262352)
+======================time=76.099998=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=319
+- Net velocity in the x and y respectively are: -0.072532, 0.254989
+
+Cluster	Size	Centroid
+1	319 	(17.353497,3.548555)
+2	8 	(15.931721,18.284763)
+3	12 	(17.995049,24.027611)
+4	4 	(16.550789,28.348240)
+5	7 	(18.365410,31.148695)
+6	4 	(19.501751,39.823925)
+7	5 	(18.463226,33.664810)
+======================time=77.099998=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=320
+- Net velocity in the x and y respectively are: -0.075956, 0.271902
+
+Cluster	Size	Centroid
+1	320 	(17.241537,3.490753)
+2	6 	(15.855701,18.636337)
+3	4 	(15.209401,27.299675)
+4	4 	(15.449338,24.438971)
+5	13 	(18.806784,24.237154)
+6	11 	(17.946142,39.398075)
+7	4 	(18.751091,27.734640)
+8	4 	(18.820349,46.661144)
+======================time=78.099998=================================
+- Number of clusters: 10
+- [Cluster 1] is the one with the maximum number of Ants=315
+- Net velocity in the x and y respectively are: 0.019053, 0.303747
+
+Cluster	Size	Centroid
+1	315 	(18.474361,1.721128)
+2	4 	(14.765662,21.366007)
+3	6 	(15.277746,27.696236)
+4	3 	(16.148575,21.131464)
+5	8 	(18.296612,24.160004)
+6	4 	(15.453446,34.025295)
+7	3 	(18.405468,24.908367)
+8	4 	(18.605486,37.475449)
+9	4 	(18.115753,33.143009)
+10	8 	(18.987352,27.889553)
+======================time=79.099998=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=305
+- Net velocity in the x and y respectively are: 0.021307, 0.235310
+
+Cluster	Size	Centroid
+1	305 	(17.359482,3.571041)
+2	4 	(13.280240,15.061149)
+3	5 	(16.096470,18.198402)
+4	4 	(16.424562,20.922974)
+5	13 	(17.953539,24.923523)
+6	4 	(18.485188,36.362099)
+7	8 	(17.911924,33.642212)
+8	7 	(18.945337,28.026350)
+======================time=80.099998=================================
+- Number of clusters: 10
+- [Cluster 1] is the one with the maximum number of Ants=309
+- Net velocity in the x and y respectively are: 0.001270, 0.222217
+
+Cluster	Size	Centroid
+1	309 	(18.400890,1.823088)
+2	4 	(15.303448,3.798107)
+3	4 	(13.335760,15.162272)
+4	3 	(15.398438,18.829947)
+5	5 	(15.817185,24.775002)
+6	16 	(18.416111,24.369350)
+7	4 	(18.069136,37.249088)
+8	4 	(18.940052,34.241093)
+9	8 	(18.774075,31.039661)
+10	4 	(19.557270,36.298286)
+======================time=81.099998=================================
+- Number of clusters: 5
+- [Cluster 1] is the one with the maximum number of Ants=319
+- Net velocity in the x and y respectively are: 0.008577, 0.300734
+
+Cluster	Size	Centroid
+1	319 	(14.953991,3.746209)
+2	4 	(18.211487,26.355007)
+3	4 	(15.687134,24.306305)
+4	10 	(18.492043,24.469675)
+5	7 	(18.864431,31.149107)
+======================time=82.099998=================================
+- Number of clusters: 10
+- [Cluster 3] is the one with the maximum number of Ants=321
+- Net velocity in the x and y respectively are: -0.016593, 0.281097
+
+Cluster	Size	Centroid
+1	6 	(15.440263,1.628209)
+2	6 	(14.697039,3.038505)
+3	321 	(17.302439,3.050446)
+4	4 	(13.475424,15.367510)
+5	4 	(15.432562,17.286747)
+6	6 	(19.045622,24.977455)
+7	7 	(18.959352,26.992851)
+8	10 	(19.530500,30.365620)
+9	4 	(18.604364,32.986694)
+10	4 	(18.856810,39.347992)
+======================time=83.099998=================================
+- Number of clusters: 11
+- [Cluster 1] is the one with the maximum number of Ants=309
+- Net velocity in the x and y respectively are: 0.038570, 0.169199
+
+Cluster	Size	Centroid
+1	309 	(17.123047,3.261292)
+2	4 	(15.086788,3.278909)
+3	4 	(13.037867,15.493751)
+4	5 	(16.757858,18.008732)
+5	5 	(18.546820,24.877651)
+6	4 	(15.594277,27.158556)
+7	4 	(19.034494,27.135323)
+8	3 	(19.544899,26.391870)
+9	2 	(17.971544,27.629419)
+10	4 	(19.432697,34.109528)
+11	9 	(18.530798,30.540781)
+======================time=84.099998=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=301
+- Net velocity in the x and y respectively are: 0.081520, 0.162189
+
+Cluster	Size	Centroid
+1	301 	(17.708099,3.640186)
+2	4 	(15.287154,21.100054)
+3	6 	(18.125364,27.079906)
+4	10 	(18.574993,24.780334)
+5	4 	(16.494978,34.340790)
+6	8 	(18.525398,33.131317)
+7	6 	(18.590176,29.992527)
+8	4 	(19.538416,36.405029)
+9	4 	(9.792500,48.418079)
+======================time=85.099998=================================
+- Number of clusters: 10
+- [Cluster 1] is the one with the maximum number of Ants=294
+- Net velocity in the x and y respectively are: 0.071686, 0.249929
+
+Cluster	Size	Centroid
+1	294 	(17.726276,3.529262)
+2	5 	(18.164404,1.716880)
+3	5 	(18.435949,1.001103)
+4	4 	(15.592345,18.769110)
+5	4 	(17.261803,18.140413)
+6	4 	(15.320593,26.976955)
+7	4 	(18.182032,27.473053)
+8	4 	(18.358946,40.052841)
+9	4 	(19.546980,33.997906)
+10	4 	(18.826273,38.551186)
+======================time=86.099998=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=302
+- Net velocity in the x and y respectively are: -0.004620, 0.253597
+
+Cluster	Size	Centroid
+1	302 	(17.019199,3.734989)
+2	8 	(18.565643,27.664452)
+3	10 	(18.077990,24.085340)
+4	8 	(18.463617,39.248425)
+5	6 	(18.089518,42.983681)
+6	5 	(18.311424,30.808786)
+7	4 	(19.447973,33.646114)
+======================time=87.099998=================================
+- Number of clusters: 6
+- [Cluster 1] is the one with the maximum number of Ants=289
+- Net velocity in the x and y respectively are: 0.021379, 0.255778
+
+Cluster	Size	Centroid
+1	289 	(17.646645,3.589739)
+2	9 	(18.390314,0.908436)
+3	8 	(18.450027,26.293821)
+4	5 	(18.050093,30.109806)
+5	5 	(18.230515,42.537930)
+6	3 	(18.865486,30.714426)
+======================time=88.099998=================================
+- Number of clusters: 13
+- [Cluster 1] is the one with the maximum number of Ants=271
+- Net velocity in the x and y respectively are: 0.023027, 0.090053
+
+Cluster	Size	Centroid
+1	271 	(17.637102,3.519303)
+2	4 	(15.344406,16.329956)
+3	6 	(16.350613,14.947603)
+4	2 	(17.310120,18.209200)
+5	4 	(12.306665,24.075445)
+6	6 	(15.663845,18.789852)
+7	9 	(18.674717,25.795654)
+8	3 	(18.763252,27.045538)
+9	4 	(18.806667,28.516953)
+10	5 	(19.128895,23.731102)
+11	6 	(18.153120,30.508791)
+12	6 	(18.356670,42.973133)
+13	8 	(18.970097,37.434475)
+======================time=89.099998=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=268
+- Net velocity in the x and y respectively are: 0.012057, 0.080085
+
+Cluster	Size	Centroid
+1	268 	(17.680183,3.830714)
+2	4 	(15.649070,4.283625)
+3	4 	(16.431095,17.975258)
+4	11 	(17.902628,24.106558)
+5	7 	(18.289660,26.987165)
+6	4 	(16.438517,39.209351)
+7	6 	(19.337835,33.686066)
+8	8 	(18.887167,36.651226)
+======================time=90.099998=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=283
+- Net velocity in the x and y respectively are: 0.082641, 0.042710
+
+Cluster	Size	Centroid
+1	283 	(17.797787,3.847123)
+2	4 	(15.222419,15.576828)
+3	10 	(18.029900,27.819050)
+4	6 	(18.619253,39.727829)
+5	4 	(18.549126,33.054394)
+6	4 	(18.337776,35.351456)
+7	4 	(18.529308,29.517540)
+8	4 	(18.369370,37.351494)
+======================time=91.099998=================================
+- Number of clusters: 11
+- [Cluster 1] is the one with the maximum number of Ants=285
+- Net velocity in the x and y respectively are: -0.052813, 0.085658
+
+Cluster	Size	Centroid
+1	285 	(18.048174,3.968029)
+2	8 	(18.374865,1.858254)
+3	4 	(16.412214,4.702440)
+4	4 	(15.766869,24.553028)
+5	4 	(15.684570,27.647858)
+6	15 	(18.285656,28.000217)
+7	19 	(18.065474,36.040314)
+8	4 	(18.125484,33.416306)
+9	5 	(17.944502,30.088894)
+10	4 	(18.175383,32.172913)
+11	6 	(19.017220,30.485798)
+======================time=92.099998=================================
+- Number of clusters: 16
+- [Cluster 1] is the one with the maximum number of Ants=258
+- Net velocity in the x and y respectively are: -0.045911, 0.060648
+
+Cluster	Size	Centroid
+1	258 	(17.915329,4.020710)
+2	10 	(18.339855,2.010198)
+3	4 	(16.216953,3.977054)
+4	8 	(16.099476,6.004431)
+5	8 	(15.703868,12.317394)
+6	3 	(16.487705,18.642712)
+7	4 	(16.805876,21.595423)
+8	4 	(17.198021,27.427124)
+9	16 	(18.384525,28.159386)
+10	11 	(18.258404,36.243835)
+11	4 	(18.060724,38.958546)
+12	6 	(18.894909,34.036926)
+13	4 	(17.946993,30.309477)
+14	7 	(19.504141,31.520487)
+15	4 	(19.493414,38.221775)
+16	3 	(18.564171,39.734100)
+======================time=93.099998=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=287
+- Net velocity in the x and y respectively are: 0.073601, 0.036649
+
+Cluster	Size	Centroid
+1	287 	(17.984106,3.885827)
+2	8 	(18.390310,0.971955)
+3	4 	(15.543954,3.572079)
+4	3 	(15.643865,7.277021)
+5	4 	(15.814471,17.298676)
+6	11 	(18.437580,36.499165)
+7	5 	(18.974981,33.571465)
+8	13 	(18.168678,31.590219)
+9	5 	(18.930487,39.319294)
+======================time=94.099998=================================
+- Number of clusters: 13
+- [Cluster 1] is the one with the maximum number of Ants=282
+- Net velocity in the x and y respectively are: 0.010394, 0.058693
+
+Cluster	Size	Centroid
+1	282 	(17.992762,3.991849)
+2	5 	(18.422054,0.934540)
+3	5 	(15.637531,12.639341)
+4	4 	(14.930982,13.735663)
+5	4 	(15.374178,18.283598)
+6	4 	(15.536348,21.402317)
+7	15 	(18.193890,29.587980)
+8	4 	(19.053677,34.860836)
+9	3 	(19.033108,28.816202)
+10	6 	(19.535130,36.504349)
+11	3 	(19.575216,33.601879)
+12	4 	(18.920473,44.943527)
+13	4 	(18.363401,40.090431)
+======================time=95.099998=================================
+- Number of clusters: 12
+- [Cluster 1] is the one with the maximum number of Ants=250
+- Net velocity in the x and y respectively are: 0.004407, 0.084511
+
+Cluster	Size	Centroid
+1	250 	(18.033447,3.943594)
+2	6 	(18.478645,1.110936)
+3	4 	(15.925253,6.683317)
+4	7 	(15.276404,9.573193)
+5	9 	(16.381201,14.583501)
+6	2 	(14.987837,15.706492)
+7	4 	(12.046287,21.404911)
+8	6 	(15.076680,20.935057)
+9	13 	(18.296715,28.593395)
+10	14 	(18.205954,30.041286)
+11	7 	(18.075182,33.776943)
+12	6 	(18.768303,36.860432)
+======================time=96.099998=================================
+- Number of clusters: 11
+- [Cluster 1] is the one with the maximum number of Ants=248
+- Net velocity in the x and y respectively are: 0.046393, 0.081394
+
+Cluster	Size	Centroid
+1	248 	(17.918335,4.039553)
+2	5 	(18.516127,1.077428)
+3	3 	(15.074431,12.485743)
+4	6 	(16.226801,15.013810)
+5	4 	(12.255220,21.622686)
+6	4 	(15.354772,25.105860)
+7	13 	(18.037876,27.116911)
+8	16 	(18.283167,28.891939)
+9	5 	(18.154564,34.037632)
+10	9 	(18.319061,37.196217)
+11	2 	(19.309507,36.147827)
+======================time=97.099998=================================
+- Number of clusters: 11
+- [Cluster 1] is the one with the maximum number of Ants=242
+- Net velocity in the x and y respectively are: 0.058482, 0.104729
+
+Cluster	Size	Centroid
+1	242 	(17.980520,3.866335)
+2	4 	(19.087563,1.816537)
+3	6 	(15.462150,18.333778)
+4	4 	(15.169626,27.475996)
+5	5 	(15.303887,30.461428)
+6	34 	(18.025011,27.146574)
+7	4 	(15.121937,35.879566)
+8	8 	(18.225939,34.004383)
+9	11 	(18.381264,37.294991)
+10	10 	(18.233995,39.516918)
+11	3 	(18.957924,33.196049)
+======================time=98.099998=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=290
+- Net velocity in the x and y respectively are: 0.075249, 0.025836
+
+Cluster	Size	Centroid
+1	290 	(17.995630,3.941006)
+2	4 	(13.746743,9.236356)
+3	3 	(15.444987,9.425702)
+4	6 	(15.349349,27.996769)
+5	4 	(16.239092,18.051113)
+6	26 	(18.419205,34.193546)
+7	20 	(18.320290,40.645226)
+8	3 	(18.388222,42.922398)
+9	4 	(18.642822,48.764755)
+======================time=99.099998=================================
+- Number of clusters: 15
+- [Cluster 1] is the one with the maximum number of Ants=231
+- Net velocity in the x and y respectively are: -0.010341, -0.008670
+
+Cluster	Size	Centroid
+1	231 	(17.988783,3.919536)
+2	5 	(18.594997,1.173025)
+3	6 	(12.336326,9.338876)
+4	3 	(15.070523,13.368955)
+5	6 	(15.951679,15.360200)
+6	4 	(16.289625,33.673573)
+7	15 	(18.123859,27.567923)
+8	2 	(15.226927,33.176544)
+9	29 	(18.566746,30.617466)
+10	14 	(17.390318,36.341499)
+11	7 	(18.050186,41.917660)
+12	14 	(19.575739,40.462246)
+13	9 	(18.440014,44.941788)
+14	3 	(19.039309,43.713535)
+15	6 	(18.287497,49.059425)
+======================time=100.099998=================================
+- Number of clusters: 15
+- [Cluster 1] is the one with the maximum number of Ants=251
+- Net velocity in the x and y respectively are: -0.056698, -0.038809
+
+Cluster	Size	Centroid
+1	251 	(18.071142,4.078865)
+2	4 	(13.012278,9.511253)
+3	6 	(16.802799,12.506481)
+4	8 	(15.721766,13.487191)
+5	2 	(16.687719,15.745875)
+6	6 	(15.569537,19.004000)
+7	4 	(15.380773,15.881974)
+8	4 	(15.871789,21.478550)
+9	4 	(14.908644,33.172680)
+10	30 	(17.989361,30.004555)
+11	14 	(18.942245,36.023800)
+12	20 	(18.910795,41.684025)
+13	3 	(18.175283,42.929939)
+14	4 	(19.052431,45.123207)
+15	4 	(19.011360,45.981380)
+======================time=101.099998=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=293
+- Net velocity in the x and y respectively are: -0.032353, 0.058980
+
+Cluster	Size	Centroid
+1	293 	(17.537441,2.982526)
+2	6 	(15.532123,17.991501)
+3	4 	(15.569286,21.563154)
+4	11 	(17.521778,42.236156)
+5	11 	(19.522593,40.883701)
+6	3 	(18.972237,37.918789)
+7	6 	(18.881058,48.542351)
+======================time=102.099998=================================
+- Number of clusters: 10
+- [Cluster 1] is the one with the maximum number of Ants=230
+- Net velocity in the x and y respectively are: -0.007637, 0.146755
+
+Cluster	Size	Centroid
+1	230 	(19.531069,3.652763)
+2	4 	(15.668365,18.305475)
+3	4 	(15.024446,24.516066)
+4	2 	(16.652977,18.665701)
+5	4 	(16.397306,23.053770)
+6	23 	(17.982710,28.465275)
+7	22 	(18.287256,38.462711)
+8	10 	(18.807907,36.307217)
+9	19 	(19.024046,34.768665)
+10	8 	(19.081213,46.404984)
+======================time=103.099998=================================
+- Number of clusters: 10
+- [Cluster 2] is the one with the maximum number of Ants=219
+- Net velocity in the x and y respectively are: 0.058385, 0.231255
+
+Cluster	Size	Centroid
+1	4 	(18.603863,1.112037)
+2	219 	(18.023205,3.110986)
+3	5 	(15.423018,11.979740)
+4	4 	(15.599824,16.008877)
+5	32 	(18.221849,29.982327)
+6	13 	(18.041840,27.724684)
+7	7 	(18.807144,35.911942)
+8	10 	(18.548281,41.237511)
+9	9 	(17.661465,45.167503)
+10	4 	(18.176886,37.609631)
+======================time=104.099998=================================
+- Number of clusters: 17
+- [Cluster 1] is the one with the maximum number of Ants=214
+- Net velocity in the x and y respectively are: 0.061981, 0.191486
+
+Cluster	Size	Centroid
+1	214 	(18.846142,2.751679)
+2	5 	(15.907805,7.637251)
+3	4 	(9.343272,13.098390)
+4	4 	(16.706829,12.610392)
+5	8 	(15.857049,21.264391)
+6	4 	(15.552958,24.964260)
+7	45 	(18.154240,30.612190)
+8	4 	(13.424965,39.031288)
+9	15 	(18.286112,35.930679)
+10	8 	(18.908516,42.582596)
+11	7 	(18.104700,44.906239)
+12	4 	(18.569275,40.568325)
+13	4 	(18.418251,43.164314)
+14	3 	(18.032763,39.572041)
+15	4 	(19.359026,39.769917)
+16	2 	(19.499964,45.716110)
+17	1 	(18.932753,39.148769)
+======================time=105.099998=================================
+- Number of clusters: 17
+- [Cluster 1] is the one with the maximum number of Ants=222
+- Net velocity in the x and y respectively are: 0.113670, 0.189422
+
+Cluster	Size	Centroid
+1	222 	(17.801432,4.651776)
+2	4 	(15.945348,6.270125)
+3	3 	(15.012228,12.106637)
+4	6 	(12.449494,20.638056)
+5	8 	(16.726866,15.444152)
+6	7 	(15.074835,18.665941)
+7	4 	(14.607697,24.218475)
+8	6 	(16.032879,21.443689)
+9	4 	(15.741842,25.251701)
+10	29 	(17.941029,29.451036)
+11	5 	(15.198439,36.508087)
+12	6 	(18.435547,36.196754)
+13	12 	(18.270401,39.047165)
+14	5 	(18.966209,36.776970)
+15	10 	(18.977560,43.012489)
+16	13 	(18.415533,34.149292)
+17	9 	(18.301743,45.819305)
+======================time=106.099998=================================
+- Number of clusters: 18
+- [Cluster 2] is the one with the maximum number of Ants=203
+- Net velocity in the x and y respectively are: 0.005204, 0.174349
+
+Cluster	Size	Centroid
+1	12 	(19.506784,3.696585)
+2	203 	(17.424431,6.635568)
+3	4 	(13.716551,12.287667)
+4	14 	(16.060234,11.604114)
+5	8 	(16.485945,15.551167)
+6	9 	(15.056693,18.703529)
+7	4 	(13.260538,21.203060)
+8	4 	(11.950652,21.003819)
+9	5 	(15.582183,21.592531)
+10	5 	(16.431917,27.319748)
+11	13 	(18.609837,31.319822)
+12	18 	(18.580469,36.511063)
+13	15 	(17.993183,33.741230)
+14	13 	(18.338764,27.627048)
+15	8 	(18.430143,39.059288)
+16	7 	(18.552565,42.066696)
+17	3 	(19.141029,43.382595)
+18	6 	(18.794394,45.709080)
+======================time=107.099998=================================
+- Number of clusters: 15
+- [Cluster 1] is the one with the maximum number of Ants=231
+- Net velocity in the x and y respectively are: -0.112506, 0.205985
+
+Cluster	Size	Centroid
+1	231 	(14.979465,9.249530)
+2	9 	(18.200314,4.405058)
+3	7 	(15.081157,12.032664)
+4	4 	(12.558203,21.031950)
+5	6 	(16.283150,21.103022)
+6	4 	(15.274729,24.005136)
+7	4 	(13.111449,24.287128)
+8	15 	(18.005449,30.165224)
+9	14 	(17.994314,27.457186)
+10	12 	(18.503716,36.694302)
+11	8 	(18.451056,39.128700)
+12	7 	(18.557417,42.502644)
+13	14 	(18.513323,33.162495)
+14	3 	(18.974010,37.959782)
+15	4 	(18.741335,48.701797)
+======================time=108.099998=================================
+- Number of clusters: 13
+- [Cluster 1] is the one with the maximum number of Ants=218
+- Net velocity in the x and y respectively are: -0.086346, 0.144531
+
+Cluster	Size	Centroid
+1	218 	(18.187515,5.187444)
+2	5 	(15.029951,15.494133)
+3	4 	(12.255978,15.534088)
+4	6 	(14.951812,27.447044)
+5	6 	(15.373692,19.063671)
+6	6 	(16.137810,21.538778)
+7	4 	(16.247677,24.136433)
+8	15 	(16.861084,36.539478)
+9	15 	(17.939743,30.204479)
+10	15 	(17.906742,27.711470)
+11	6 	(18.951105,43.635410)
+12	15 	(18.235243,33.361744)
+13	2 	(19.061255,42.865257)
+======================time=109.099998=================================
+- Number of clusters: 16
+- [Cluster 2] is the one with the maximum number of Ants=230
+- Net velocity in the x and y respectively are: -0.034334, 0.137757
+
+Cluster	Size	Centroid
+1	4 	(18.196514,4.512236)
+2	230 	(17.981043,6.515815)
+3	4 	(16.584129,9.381059)
+4	5 	(14.498242,18.269190)
+5	4 	(8.937134,15.237448)
+6	4 	(16.446877,16.729353)
+7	4 	(14.150739,21.353523)
+8	3 	(15.976015,18.019629)
+9	2 	(16.658844,19.289221)
+10	4 	(16.266905,24.490955)
+11	3 	(18.377129,32.045353)
+12	2 	(17.532934,30.262257)
+13	18 	(18.623045,37.143818)
+14	12 	(17.987162,33.369316)
+15	12 	(18.536432,42.664337)
+16	4 	(18.273756,39.040131)
+======================time=110.099998=================================
+- Number of clusters: 11
+- [Cluster 1] is the one with the maximum number of Ants=224
+- Net velocity in the x and y respectively are: 0.043751, 0.100870
+
+Cluster	Size	Centroid
+1	224 	(18.004944,6.666258)
+2	4 	(15.534086,9.468460)
+3	4 	(15.486912,7.263409)
+4	1 	(16.624687,10.367971)
+5	5 	(15.775216,18.270082)
+6	4 	(16.172617,27.229189)
+7	28 	(18.744577,33.025597)
+8	8 	(17.987007,39.582771)
+9	10 	(18.296034,42.826862)
+10	4 	(18.973581,39.386833)
+11	4 	(18.979822,45.018871)
+======================time=111.099998=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=198
+- Net velocity in the x and y respectively are: -0.019556, -0.001751
+
+Cluster	Size	Centroid
+1	198 	(18.263681,5.388532)
+2	4 	(18.189335,4.133833)
+3	6 	(15.641455,10.368220)
+4	5 	(14.965653,12.543834)
+5	15 	(17.957857,30.807724)
+6	28 	(18.286537,32.501564)
+7	13 	(18.496302,40.160522)
+8	9 	(18.042274,42.804482)
+9	6 	(18.422764,45.546329)
+======================time=112.099998=================================
+- Number of clusters: 11
+- [Cluster 1] is the one with the maximum number of Ants=215
+- Net velocity in the x and y respectively are: -0.111860, -0.026471
+
+Cluster	Size	Centroid
+1	215 	(18.249002,5.397179)
+2	9 	(16.249212,13.847614)
+3	4 	(15.716325,22.081041)
+4	4 	(15.187795,24.084766)
+5	16 	(18.148182,32.433861)
+6	4 	(15.334207,42.542332)
+7	11 	(18.550629,36.775974)
+8	15 	(18.659069,40.599503)
+9	11 	(18.047056,44.928440)
+10	4 	(18.345892,48.042995)
+11	7 	(18.696444,42.928898)
+======================time=113.099998=================================
+- Number of clusters: 10
+- [Cluster 2] is the one with the maximum number of Ants=209
+- Net velocity in the x and y respectively are: -0.096508, 0.045974
+
+Cluster	Size	Centroid
+1	4 	(17.979485,3.627280)
+2	209 	(17.919191,6.915336)
+3	5 	(16.016993,12.040030)
+4	7 	(15.936625,15.774271)
+5	6 	(16.040977,18.377262)
+6	4 	(15.376514,33.206440)
+7	8 	(18.467960,36.904129)
+8	9 	(18.302231,42.685661)
+9	7 	(19.014238,40.191196)
+10	5 	(19.009315,45.746372)
+======================time=114.099998=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=192
+- Net velocity in the x and y respectively are: -0.126775, 0.016748
+
+Cluster	Size	Centroid
+1	192 	(18.191208,5.322948)
+2	6 	(18.670872,3.979750)
+3	4 	(16.177761,10.160276)
+4	5 	(15.891449,15.955663)
+5	14 	(19.035105,31.234690)
+6	4 	(18.898062,32.677551)
+7	11 	(18.299858,42.721336)
+8	6 	(19.007734,40.315655)
+9	7 	(18.826202,36.708950)
+======================time=115.099998=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=197
+- Net velocity in the x and y respectively are: -0.159096, 0.096821
+
+Cluster	Size	Centroid
+1	197 	(17.307503,6.497137)
+2	5 	(18.272650,5.311678)
+3	4 	(17.982763,3.602908)
+4	4 	(15.487811,10.382656)
+5	2 	(18.922329,3.269980)
+6	8 	(19.049664,45.507557)
+7	6 	(18.832514,42.318714)
+8	4 	(19.158205,36.096367)
+======================time=116.099998=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=167
+- Net velocity in the x and y respectively are: -0.098541, 0.201062
+
+Cluster	Size	Centroid
+1	167 	(18.438646,5.609308)
+2	8 	(18.790184,3.928008)
+3	19 	(17.818808,26.919640)
+4	4 	(16.351952,17.677519)
+5	5 	(19.037491,45.367405)
+6	4 	(18.239798,43.488091)
+7	4 	(18.234718,36.676517)
+8	4 	(19.513874,41.982903)
+======================time=117.099998=================================
+- Number of clusters: 13
+- [Cluster 2] is the one with the maximum number of Ants=185
+- Net velocity in the x and y respectively are: -0.024950, 0.245009
+
+Cluster	Size	Centroid
+1	9 	(19.505308,3.269182)
+2	185 	(18.664827,6.040413)
+3	2 	(18.720366,4.757317)
+4	4 	(15.710267,14.937709)
+5	4 	(15.182876,12.854358)
+6	3 	(15.275633,12.069663)
+7	3 	(16.408367,12.696072)
+8	4 	(15.909252,19.225790)
+9	3 	(17.078032,15.620956)
+10	4 	(17.626644,31.341307)
+11	7 	(19.046789,45.717072)
+12	4 	(19.338697,32.980099)
+13	6 	(18.931196,37.216362)
+======================time=118.099998=================================
+- Number of clusters: 11
+- [Cluster 2] is the one with the maximum number of Ants=190
+- Net velocity in the x and y respectively are: -0.066840, 0.243917
+
+Cluster	Size	Centroid
+1	4 	(15.041697,4.430489)
+2	190 	(18.650484,6.020551)
+3	7 	(18.710608,3.991844)
+4	4 	(16.062920,12.596627)
+5	4 	(16.726246,9.690223)
+6	4 	(15.815170,16.613441)
+7	3 	(18.296186,32.202175)
+8	4 	(18.563980,33.471603)
+9	5 	(18.921780,36.318668)
+10	7 	(18.689137,39.965611)
+11	3 	(19.549997,33.992176)
+======================time=119.099998=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=193
+- Net velocity in the x and y respectively are: -0.081905, 0.265787
+
+Cluster	Size	Centroid
+1	193 	(18.648441,6.063347)
+2	6 	(18.084435,4.759142)
+3	6 	(18.307640,3.292200)
+4	4 	(15.022779,15.610432)
+5	4 	(15.438163,12.826283)
+6	4 	(16.344894,12.149620)
+7	4 	(15.462808,21.360872)
+8	11 	(18.133778,33.479046)
+======================time=120.099998=================================
+- Number of clusters: 12
+- [Cluster 1] is the one with the maximum number of Ants=136
+- Net velocity in the x and y respectively are: 0.036280, 0.170695
+
+Cluster	Size	Centroid
+1	136 	(18.576015,6.175773)
+2	4 	(19.079420,3.131189)
+3	8 	(16.032724,15.742702)
+4	4 	(15.509111,18.094435)
+5	4 	(16.228664,12.528904)
+6	20 	(17.713215,23.983103)
+7	4 	(15.019772,24.770784)
+8	17 	(18.026134,26.949940)
+9	9 	(18.432808,34.257492)
+10	11 	(18.994732,31.088060)
+11	8 	(18.877344,36.878342)
+12	4 	(18.368479,45.003284)
+======================time=121.099998=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=140
+- Net velocity in the x and y respectively are: 0.019978, 0.068957
+
+Cluster	Size	Centroid
+1	140 	(18.524189,6.163836)
+2	6 	(16.157331,15.093033)
+3	38 	(18.933512,23.941809)
+4	10 	(18.098541,33.118916)
+5	6 	(18.988302,31.324314)
+6	7 	(19.023796,45.472012)
+7	6 	(18.977772,37.025623)
+======================time=122.099998=================================
+- Number of clusters: 10
+- [Cluster 2] is the one with the maximum number of Ants=136
+- Net velocity in the x and y respectively are: 0.022981, 0.019465
+
+Cluster	Size	Centroid
+1	19 	(18.555473,6.297465)
+2	136 	(19.347382,9.662961)
+3	6 	(15.856318,14.660887)
+4	4 	(15.737713,9.375451)
+5	4 	(15.236987,12.607229)
+6	13 	(18.909372,28.241207)
+7	6 	(18.897556,33.520023)
+8	6 	(19.249247,30.597818)
+9	4 	(18.322420,51.834881)
+10	4 	(19.049618,35.963268)
+======================time=123.099998=================================
+- Number of clusters: 8
+- [Cluster 1] is the one with the maximum number of Ants=159
+- Net velocity in the x and y respectively are: 0.057741, 0.051459
+
+Cluster	Size	Centroid
+1	159 	(18.664537,6.230983)
+2	4 	(14.224034,9.391287)
+3	9 	(15.828044,16.123169)
+4	4 	(16.518400,18.266058)
+5	6 	(15.232950,18.146238)
+6	5 	(18.891457,28.603182)
+7	4 	(19.539680,30.427971)
+8	3 	(18.384693,30.502308)
+======================time=124.099998=================================
+- Number of clusters: 6
+- [Cluster 2] is the one with the maximum number of Ants=165
+- Net velocity in the x and y respectively are: -0.013402, 0.093428
+
+Cluster	Size	Centroid
+1	4 	(18.465561,1.617128)
+2	165 	(18.568108,6.431808)
+3	8 	(16.028542,19.260099)
+4	4 	(16.366512,25.117058)
+5	9 	(18.738127,26.941135)
+6	8 	(18.991018,31.103024)
+======================time=125.099998=================================
+- Number of clusters: 10
+- [Cluster 1] is the one with the maximum number of Ants=157
+- Net velocity in the x and y respectively are: -0.056751, 0.214850
+
+Cluster	Size	Centroid
+1	157 	(18.572903,6.592057)
+2	4 	(14.356875,9.247022)
+3	4 	(15.064710,18.544384)
+4	4 	(15.232110,16.705433)
+5	4 	(16.310392,15.881298)
+6	4 	(17.173189,12.229016)
+7	4 	(12.490032,20.953655)
+8	6 	(18.839417,28.978716)
+9	6 	(18.650038,30.924252)
+10	4 	(18.524483,45.510098)
+======================time=126.099998=================================
+- Number of clusters: 5
+- [Cluster 1] is the one with the maximum number of Ants=148
+- Net velocity in the x and y respectively are: -0.100990, 0.239657
+
+Cluster	Size	Centroid
+1	148 	(18.457844,6.342929)
+2	6 	(18.775848,33.527992)
+3	11 	(17.885225,26.990719)
+4	3 	(19.021095,28.598383)
+5	4 	(18.628242,30.032259)
+======================time=127.099998=================================
+- Number of clusters: 5
+- [Cluster 1] is the one with the maximum number of Ants=157
+- Net velocity in the x and y respectively are: -0.053005, 0.213849
+
+Cluster	Size	Centroid
+1	157 	(18.516813,6.203030)
+2	3 	(18.907379,4.796710)
+3	4 	(15.737466,51.675396)
+4	4 	(18.757973,46.547504)
+5	4 	(18.144703,48.649601)
+======================time=128.100006=================================
+- Number of clusters: 6
+- [Cluster 2] is the one with the maximum number of Ants=131
+- Net velocity in the x and y respectively are: -0.010637, 0.193936
+
+Cluster	Size	Centroid
+1	8 	(18.373854,6.259021)
+2	131 	(18.915058,8.024484)
+3	4 	(15.150252,17.230207)
+4	3 	(16.694166,17.924543)
+5	6 	(19.027227,29.960093)
+6	4 	(18.871866,27.358467)
+======================time=129.100006=================================
+- Number of clusters: 9
+- [Cluster 1] is the one with the maximum number of Ants=125
+- Net velocity in the x and y respectively are: 0.087395, 0.210220
+
+Cluster	Size	Centroid
+1	125 	(19.292599,9.972426)
+2	4 	(18.797804,6.719034)
+3	4 	(19.477728,7.694652)
+4	9 	(16.743080,23.982443)
+5	4 	(12.537978,30.467180)
+6	4 	(19.081570,28.339972)
+7	3 	(19.059549,27.496866)
+8	4 	(18.528402,39.614830)
+9	4 	(19.432955,42.452766)
+======================time=130.100006=================================
+- Number of clusters: 9
+- [Cluster 3] is the one with the maximum number of Ants=132
+- Net velocity in the x and y respectively are: 0.075329, 0.180070
+
+Cluster	Size	Centroid
+1	4 	(13.117971,9.582657)
+2	4 	(15.167380,10.145589)
+3	132 	(19.478439,8.385428)
+4	5 	(19.458155,6.423435)
+5	4 	(15.500390,15.212798)
+6	7 	(16.283941,24.680565)
+7	8 	(18.422585,26.713741)
+8	7 	(19.053049,30.520294)
+9	4 	(16.287378,51.168549)
+======================time=131.100006=================================
+- Number of clusters: 6
+- [Cluster 2] is the one with the maximum number of Ants=141
+- Net velocity in the x and y respectively are: 0.072783, 0.117979
+
+Cluster	Size	Centroid
+1	8 	(18.415634,6.532195)
+2	141 	(19.364590,10.178363)
+3	6 	(16.159275,18.454866)
+4	4 	(15.493134,11.992216)
+5	4 	(15.711040,30.449717)
+6	4 	(18.651104,39.077370)
+======================time=132.100006=================================
+- Number of clusters: 10
+- [Cluster 2] is the one with the maximum number of Ants=132
+- Net velocity in the x and y respectively are: 0.037699, 0.173292
+
+Cluster	Size	Centroid
+1	7 	(19.484623,5.925844)
+2	132 	(19.163887,10.131234)
+3	4 	(15.051502,21.210323)
+4	4 	(16.451408,24.184633)
+5	4 	(15.899178,27.834349)
+6	10 	(18.589554,27.080931)
+7	4 	(19.525682,30.107470)
+8	2 	(18.660267,30.616188)
+9	4 	(18.808897,45.255779)
+10	4 	(18.614414,39.399803)
+======================time=133.100006=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=150
+- Net velocity in the x and y respectively are: 0.080519, 0.169889
+
+Cluster	Size	Centroid
+1	150 	(19.101080,10.275792)
+2	3 	(16.474445,20.288288)
+3	4 	(16.806334,16.450054)
+4	4 	(15.178899,21.083725)
+5	4 	(15.572250,30.231722)
+6	9 	(18.773134,44.869198)
+7	4 	(18.101795,42.486374)
+======================time=134.100006=================================
+- Number of clusters: 12
+- [Cluster 2] is the one with the maximum number of Ants=127
+- Net velocity in the x and y respectively are: 0.044890, 0.113674
+
+Cluster	Size	Centroid
+1	4 	(18.318407,6.285915)
+2	127 	(18.917450,10.225575)
+3	5 	(18.841581,7.618387)
+4	6 	(17.436733,33.094662)
+5	5 	(18.459249,35.329506)
+6	3 	(18.962500,28.388842)
+7	4 	(18.220320,43.358860)
+8	4 	(18.838821,42.069984)
+9	4 	(19.494919,33.796177)
+10	2 	(18.330820,36.302902)
+11	9 	(18.694107,39.787590)
+12	7 	(18.380676,45.264599)
+======================time=135.100006=================================
+- Number of clusters: 12
+- [Cluster 1] is the one with the maximum number of Ants=81
+- Net velocity in the x and y respectively are: 0.076501, 0.247686
+
+Cluster	Size	Centroid
+1	81 	(19.552450,8.903038)
+2	5 	(18.218594,7.219280)
+3	46 	(18.027975,22.332441)
+4	7 	(18.044941,36.857697)
+5	12 	(18.360222,43.353886)
+6	5 	(18.206644,29.952785)
+7	8 	(18.210709,33.717018)
+8	8 	(18.903515,45.026188)
+9	4 	(17.959806,54.448315)
+10	6 	(18.543053,39.798847)
+11	4 	(14.910238,52.627033)
+12	4 	(18.692415,48.912300)
+======================time=136.100006=================================
+- Number of clusters: 13
+- [Cluster 2] is the one with the maximum number of Ants=99
+- Net velocity in the x and y respectively are: 0.079054, 0.257050
+
+Cluster	Size	Centroid
+1	7 	(18.135096,6.631209)
+2	99 	(18.801092,8.549335)
+3	4 	(18.853878,6.012134)
+4	4 	(15.989226,18.050713)
+5	32 	(19.007072,26.356201)
+6	4 	(18.030376,31.626177)
+7	4 	(19.033691,36.586918)
+8	6 	(18.455215,30.194483)
+9	4 	(18.273748,34.112530)
+10	12 	(19.009491,42.584343)
+11	4 	(18.389769,39.999477)
+12	3 	(19.517920,40.677494)
+13	4 	(19.518076,39.101280)
+======================time=137.100006=================================
+- Number of clusters: 16
+- [Cluster 3] is the one with the maximum number of Ants=135
+- Net velocity in the x and y respectively are: 0.031289, 0.265996
+
+Cluster	Size	Centroid
+1	10 	(18.410582,6.610070)
+2	4 	(15.062180,15.418749)
+3	135 	(18.994696,8.625667)
+4	4 	(15.094384,12.743917)
+5	4 	(16.419283,21.079758)
+6	14 	(17.974133,30.097954)
+7	4 	(16.288795,30.076931)
+8	4 	(15.258060,37.241539)
+9	9 	(18.971670,36.741203)
+10	8 	(18.501091,33.096111)
+11	4 	(18.345125,43.819340)
+12	9 	(19.008648,42.154377)
+13	3 	(18.001841,45.116745)
+14	4 	(18.812233,48.053314)
+15	4 	(19.501640,39.592110)
+16	4 	(18.576538,50.810604)
+======================time=138.100006=================================
+- Number of clusters: 17
+- [Cluster 4] is the one with the maximum number of Ants=102
+- Net velocity in the x and y respectively are: 0.064319, 0.279090
+
+Cluster	Size	Centroid
+1	20 	(18.035379,9.139389)
+2	4 	(16.405500,15.113018)
+3	5 	(18.992916,6.513053)
+4	102 	(17.985317,15.861408)
+5	4 	(16.074682,19.540316)
+6	4 	(15.083224,24.567118)
+7	13 	(17.751146,30.233591)
+8	14 	(18.693485,27.023138)
+9	4 	(17.044161,24.657930)
+10	10 	(19.011932,36.977974)
+11	9 	(18.716486,33.222744)
+12	5 	(18.344482,44.025009)
+13	10 	(18.953068,42.368904)
+14	3 	(18.339630,45.064655)
+15	4 	(19.022215,46.309265)
+16	4 	(18.781595,51.745071)
+17	4 	(18.815819,39.647079)
+======================time=139.100006=================================
+- Number of clusters: 14
+- [Cluster 1] is the one with the maximum number of Ants=128
+- Net velocity in the x and y respectively are: 0.096747, 0.326154
+
+Cluster	Size	Centroid
+1	128 	(18.047646,8.639094)
+2	4 	(15.201909,13.072361)
+3	7 	(15.546450,18.498116)
+4	4 	(16.539970,21.399525)
+5	4 	(15.028854,24.037386)
+6	9 	(18.268559,27.733059)
+7	13 	(18.077768,34.621449)
+8	4 	(18.920765,37.101173)
+9	6 	(18.410643,35.994823)
+10	15 	(18.707088,29.969820)
+11	15 	(18.959267,42.587635)
+12	9 	(18.929586,45.467922)
+13	7 	(18.858877,48.716587)
+14	5 	(18.476748,39.158264)
+======================time=140.100006=================================
+- Number of clusters: 15
+- [Cluster 2] is the one with the maximum number of Ants=116
+- Net velocity in the x and y respectively are: 0.064548, 0.272412
+
+Cluster	Size	Centroid
+1	15 	(18.342304,6.720513)
+2	116 	(18.087547,8.872726)
+3	6 	(16.578533,21.675394)
+4	3 	(16.363613,14.903602)
+5	3 	(16.335733,13.536942)
+6	8 	(14.803280,24.014282)
+7	4 	(14.958452,21.525236)
+8	13 	(18.820641,27.438354)
+9	12 	(18.198256,34.781487)
+10	12 	(17.788717,36.459129)
+11	16 	(18.287361,32.286297)
+12	2 	(18.076197,29.586145)
+13	23 	(18.574198,44.485996)
+14	8 	(18.500380,39.529228)
+15	4 	(18.978378,47.926876)
+======================time=141.100006=================================
+- Number of clusters: 17
+- [Cluster 3] is the one with the maximum number of Ants=119
+- Net velocity in the x and y respectively are: 0.017249, 0.253479
+
+Cluster	Size	Centroid
+1	11 	(18.311962,6.743451)
+2	4 	(16.953964,9.229902)
+3	119 	(18.959078,9.019910)
+4	3 	(16.497807,21.714634)
+5	6 	(15.646205,15.083507)
+6	4 	(15.039778,18.440458)
+7	3 	(15.277228,19.566862)
+8	4 	(16.421261,12.080138)
+9	7 	(16.094831,24.602770)
+10	5 	(15.337226,22.706360)
+11	11 	(18.940666,27.596611)
+12	33 	(18.019978,32.396938)
+13	7 	(18.618689,36.471115)
+14	9 	(18.857450,42.487938)
+15	10 	(18.836817,45.847092)
+16	5 	(19.523445,39.694801)
+17	5 	(18.973103,48.196976)
+======================time=142.100006=================================
+- Number of clusters: 17
+- [Cluster 4] is the one with the maximum number of Ants=116
+- Net velocity in the x and y respectively are: 0.076401, 0.265999
+
+Cluster	Size	Centroid
+1	7 	(18.851709,6.115411)
+2	15 	(18.954479,9.016451)
+3	6 	(15.658087,21.048033)
+4	116 	(17.863003,16.435085)
+5	6 	(15.439327,15.042592)
+6	4 	(16.295729,12.281649)
+7	3 	(15.366828,22.295559)
+8	3 	(15.769827,23.502384)
+9	16 	(17.403908,27.203230)
+10	16 	(18.019327,29.810980)
+11	5 	(15.327925,31.060095)
+12	13 	(18.526283,33.062847)
+13	7 	(18.951698,36.034500)
+14	11 	(18.975639,42.652122)
+15	4 	(18.288664,54.483856)
+16	4 	(18.507380,37.428955)
+17	6 	(18.583633,39.898785)
+======================time=143.100006=================================
+- Number of clusters: 16
+- [Cluster 3] is the one with the maximum number of Ants=133
+- Net velocity in the x and y respectively are: 0.017343, 0.203652
+
+Cluster	Size	Centroid
+1	4 	(18.174658,6.421869)
+2	6 	(15.748293,12.307454)
+3	133 	(18.835493,8.909871)
+4	10 	(15.355627,19.196852)
+5	4 	(15.255597,18.005186)
+6	8 	(15.430269,15.300780)
+7	5 	(15.198504,24.561472)
+8	13 	(17.992163,28.127819)
+9	3 	(17.165720,28.159655)
+10	6 	(16.054373,30.735762)
+11	12 	(17.984264,32.720055)
+12	12 	(17.965355,36.276764)
+13	14 	(18.995848,30.450876)
+14	11 	(18.285370,38.411575)
+15	9 	(18.888409,42.593437)
+16	4 	(19.479734,48.555809)
+======================time=144.100006=================================
+- Number of clusters: 17
+- [Cluster 2] is the one with the maximum number of Ants=65
+- Net velocity in the x and y respectively are: -0.062754, 0.265915
+
+Cluster	Size	Centroid
+1	6 	(18.848438,9.006006)
+2	65 	(19.170259,11.379714)
+3	3 	(15.978976,19.096085)
+4	7 	(16.726431,22.081926)
+5	5 	(15.747879,16.154034)
+6	57 	(16.652700,23.592012)
+7	5 	(15.392787,24.626245)
+8	3 	(18.911255,10.597300)
+9	4 	(15.385669,28.162178)
+10	4 	(16.479778,33.463791)
+11	10 	(17.979296,33.079014)
+12	14 	(18.170963,30.004650)
+13	17 	(18.038155,36.335087)
+14	3 	(18.505301,34.761723)
+15	5 	(18.974197,42.909798)
+16	7 	(18.817755,46.412556)
+17	2 	(18.702459,39.098751)
+======================time=145.100006=================================
+- Number of clusters: 12
+- [Cluster 1] is the one with the maximum number of Ants=136
+- Net velocity in the x and y respectively are: -0.145688, 0.339114
+
+Cluster	Size	Centroid
+1	136 	(18.733440,8.940267)
+2	9 	(16.041525,19.194464)
+3	4 	(15.424447,15.934312)
+4	4 	(16.951887,12.518084)
+5	6 	(16.364229,30.423717)
+6	4 	(16.468067,27.467838)
+7	4 	(15.575272,39.109955)
+8	28 	(18.150482,30.144005)
+9	14 	(17.600630,36.125713)
+10	7 	(18.139082,45.599880)
+11	4 	(18.881504,43.057625)
+12	6 	(19.449221,39.352783)
+======================time=146.100006=================================
+- Number of clusters: 11
+- [Cluster 3] is the one with the maximum number of Ants=117
+- Net velocity in the x and y respectively are: -0.042820, 0.328425
+
+Cluster	Size	Centroid
+1	5 	(18.213715,6.821985)
+2	12 	(18.775055,9.078437)
+3	117 	(18.004148,17.545614)
+4	8 	(15.365968,18.177437)
+5	18 	(18.034235,29.800774)
+6	4 	(16.059776,31.321039)
+7	12 	(18.354589,33.716404)
+8	14 	(17.915682,35.980667)
+9	4 	(18.925600,38.513416)
+10	7 	(18.281612,45.931648)
+11	7 	(19.456667,43.069798)
+======================time=147.100006=================================
+- Number of clusters: 16
+- [Cluster 2] is the one with the maximum number of Ants=117
+- Net velocity in the x and y respectively are: -0.042752, 0.321649
+
+Cluster	Size	Centroid
+1	5 	(18.360399,6.974467)
+2	117 	(19.070864,11.519316)
+3	8 	(15.630516,17.838690)
+4	4 	(15.899367,21.207565)
+5	5 	(18.217400,9.737544)
+6	7 	(15.914576,15.525487)
+7	4 	(16.364416,27.369791)
+8	16 	(18.086931,29.970907)
+9	4 	(15.162727,30.229639)
+10	7 	(17.338455,30.155745)
+11	10 	(17.819113,33.782795)
+12	6 	(16.134239,36.211414)
+13	13 	(18.018948,35.970665)
+14	6 	(18.275034,38.984451)
+15	4 	(18.066545,54.251255)
+16	4 	(19.223061,42.633957)
+======================time=148.100006=================================
+- Number of clusters: 14
+- [Cluster 2] is the one with the maximum number of Ants=127
+- Net velocity in the x and y respectively are: -0.022395, 0.263151
+
+Cluster	Size	Centroid
+1	5 	(15.621285,9.369573)
+2	127 	(17.976936,10.231634)
+3	5 	(18.462074,6.505180)
+4	5 	(15.776774,22.200565)
+5	5 	(15.041301,18.317905)
+6	3 	(15.220898,21.160395)
+7	4 	(15.483720,25.800898)
+8	3 	(17.016489,15.103231)
+9	3 	(16.113894,18.458929)
+10	4 	(18.049284,30.036110)
+11	9 	(15.525695,30.559841)
+12	11 	(18.262527,35.954056)
+13	13 	(18.928673,31.260004)
+14	8 	(19.515076,33.760036)
+======================time=149.100006=================================
+- Number of clusters: 9
+- [Cluster 2] is the one with the maximum number of Ants=143
+- Net velocity in the x and y respectively are: -0.023050, 0.188487
+
+Cluster	Size	Centroid
+1	13 	(18.043056,10.273533)
+2	143 	(15.795798,18.135981)
+3	4 	(15.210609,21.590601)
+4	4 	(15.946968,35.970718)
+5	9 	(19.563160,33.919754)
+6	11 	(19.071907,37.808792)
+7	8 	(18.204172,43.083908)
+8	2 	(18.017441,42.283581)
+9	4 	(19.099684,57.540478)
+======================time=150.100006=================================
+- Number of clusters: 9
+- [Cluster 4] is the one with the maximum number of Ants=130
+- Net velocity in the x and y respectively are: 0.066260, 0.174681
+
+Cluster	Size	Centroid
+1	4 	(18.093954,10.509261)
+2	8 	(18.883364,9.631287)
+3	4 	(15.780352,18.661600)
+4	130 	(17.506554,18.196442)
+5	4 	(16.082485,15.311686)
+6	4 	(17.059591,27.740721)
+7	11 	(18.321922,34.312435)
+8	13 	(18.292870,36.550404)
+9	8 	(18.358320,43.045612)
+======================time=151.100006=================================
+- Number of clusters: 9
+- [Cluster 2] is the one with the maximum number of Ants=130
+- Net velocity in the x and y respectively are: 0.083480, 0.177746
+
+Cluster	Size	Centroid
+1	8 	(18.967710,9.797630)
+2	130 	(19.507103,11.886031)
+3	4 	(15.763760,18.060337)
+4	5 	(16.553925,21.446333)
+5	4 	(15.823030,27.365559)
+6	20 	(18.549988,34.714085)
+7	6 	(18.865839,39.638485)
+8	1 	(19.498657,32.952591)
+9	7 	(18.349041,42.798290)
+======================time=152.100006=================================
+- Number of clusters: 9
+- [Cluster 4] is the one with the maximum number of Ants=124
+- Net velocity in the x and y respectively are: 0.096708, 0.206575
+
+Cluster	Size	Centroid
+1	6 	(18.480543,6.997641)
+2	25 	(18.146519,10.493223)
+3	5 	(15.728193,18.360825)
+4	124 	(17.969109,18.144703)
+5	4 	(16.276644,27.190533)
+6	8 	(18.359198,36.694347)
+7	5 	(15.694048,45.602913)
+8	6 	(17.910614,39.010777)
+9	7 	(18.596270,43.178223)
+======================time=153.100006=================================
+- Number of clusters: 11
+- [Cluster 2] is the one with the maximum number of Ants=119
+- Net velocity in the x and y respectively are: 0.032553, 0.185752
+
+Cluster	Size	Centroid
+1	4 	(18.877773,9.410161)
+2	119 	(17.952412,18.345104)
+3	4 	(12.871827,24.081228)
+4	5 	(15.608938,27.912836)
+5	2 	(16.527037,26.927078)
+6	16 	(18.566824,35.086941)
+7	14 	(18.837126,40.074696)
+8	7 	(18.966171,36.456001)
+9	5 	(19.002705,45.963741)
+10	4 	(18.376076,52.040718)
+11	6 	(19.473694,42.463074)
+======================time=154.100006=================================
+- Number of clusters: 9
+- [Cluster 2] is the one with the maximum number of Ants=125
+- Net velocity in the x and y respectively are: -0.023726, 0.161914
+
+Cluster	Size	Centroid
+1	5 	(14.952536,19.327658)
+2	125 	(17.936323,18.524433)
+3	13 	(17.941723,12.268435)
+4	4 	(15.700706,24.608303)
+5	4 	(15.196018,28.621334)
+6	12 	(19.033060,40.482368)
+7	9 	(18.978603,36.484299)
+8	11 	(19.022303,41.421680)
+9	5 	(18.472639,48.581711)
+======================time=155.100006=================================
+- Number of clusters: 12
+- [Cluster 2] is the one with the maximum number of Ants=125
+- Net velocity in the x and y respectively are: -0.033994, 0.208445
+
+Cluster	Size	Centroid
+1	6 	(16.164917,9.338897)
+2	125 	(19.572987,11.915058)
+3	4 	(16.476139,23.835781)
+4	5 	(15.670617,24.736563)
+5	5 	(16.730358,27.289343)
+6	4 	(17.283937,34.719124)
+7	22 	(18.115992,33.005337)
+8	11 	(18.101988,45.723095)
+9	15 	(18.800980,40.745167)
+10	4 	(18.626717,48.008141)
+11	5 	(18.335157,54.605560)
+12	4 	(18.377254,42.610802)
+======================time=156.100006=================================
+- Number of clusters: 10
+- [Cluster 3] is the one with the maximum number of Ants=66
+- Net velocity in the x and y respectively are: -0.009940, 0.157944
+
+Cluster	Size	Centroid
+1	15 	(19.571209,11.969837)
+2	58 	(17.882555,16.255411)
+3	66 	(17.668655,24.056902)
+4	5 	(16.737963,27.546604)
+5	4 	(16.192715,21.307938)
+6	4 	(17.387354,36.487015)
+7	11 	(18.891743,40.936943)
+8	5 	(18.975994,36.564911)
+9	7 	(18.450190,42.798626)
+10	4 	(18.882919,46.203304)
+======================time=157.100006=================================
+- Number of clusters: 8
+- [Cluster 2] is the one with the maximum number of Ants=131
+- Net velocity in the x and y respectively are: -0.027886, 0.064151
+
+Cluster	Size	Centroid
+1	5 	(15.543129,12.115344)
+2	131 	(18.091825,19.109459)
+3	6 	(15.957444,18.609280)
+4	7 	(18.048697,42.375248)
+5	12 	(18.794907,35.998978)
+6	4 	(15.113779,45.531185)
+7	8 	(18.854593,39.008167)
+8	6 	(19.503166,51.762363)
+======================time=158.100006=================================
+- Number of clusters: 14
+- [Cluster 4] is the one with the maximum number of Ants=126
+- Net velocity in the x and y respectively are: -0.065642, 0.097050
+
+Cluster	Size	Centroid
+1	10 	(19.573437,11.946478)
+2	6 	(18.173002,8.894938)
+3	4 	(15.760388,15.111257)
+4	126 	(17.997154,19.107483)
+5	2 	(17.986961,13.145113)
+6	4 	(15.905581,21.604214)
+7	5 	(15.500622,27.292772)
+8	11 	(18.771742,36.210358)
+9	7 	(18.307079,46.361885)
+10	6 	(18.899000,39.212833)
+11	3 	(19.000206,40.244335)
+12	4 	(19.496468,42.652721)
+13	3 	(18.558201,42.367039)
+14	4 	(19.518847,51.270786)
+======================time=159.100006=================================
+- Number of clusters: 9
+- [Cluster 3] is the one with the maximum number of Ants=105
+- Net velocity in the x and y respectively are: -0.091742, 0.106450
+
+Cluster	Size	Centroid
+1	7 	(19.568644,11.993516)
+2	7 	(19.044628,9.164998)
+3	105 	(18.033680,19.106781)
+4	5 	(17.989557,12.913838)
+5	8 	(18.174463,33.070381)
+6	10 	(19.090685,36.371235)
+7	12 	(18.055990,40.464222)
+8	8 	(18.205801,42.071930)
+9	4 	(18.954510,34.731426)
+======================time=160.100006=================================
+- Number of clusters: 13
+- [Cluster 4] is the one with the maximum number of Ants=125
+- Net velocity in the x and y respectively are: -0.044927, 0.104706
+
+Cluster	Size	Centroid
+1	7 	(18.955179,6.764148)
+2	5 	(18.444027,7.415737)
+3	4 	(18.446726,10.676891)
+4	125 	(16.523705,18.222191)
+5	5 	(18.918591,9.300272)
+6	8 	(18.185694,12.470524)
+7	4 	(1.007532,21.546555)
+8	3 	(19.585333,11.390161)
+9	8 	(18.851603,36.461250)
+10	11 	(18.938980,41.645557)
+11	10 	(19.013018,39.552101)
+12	9 	(18.554045,34.278793)
+13	4 	(19.282484,45.538372)
+======================time=161.100006=================================
+- Number of clusters: 10
+- [Cluster 4] is the one with the maximum number of Ants=59
+- Net velocity in the x and y respectively are: -0.077107, 0.279137
+
+Cluster	Size	Centroid
+1	13 	(18.109568,8.702353)
+2	6 	(19.092035,6.698539)
+3	9 	(18.338255,12.611855)
+4	59 	(17.974823,15.457585)
+5	48 	(18.024742,24.781853)
+6	4 	(12.680306,45.350754)
+7	5 	(18.918949,42.062897)
+8	11 	(18.896206,39.663960)
+9	4 	(18.053257,36.580925)
+10	6 	(18.740995,51.666847)
+======================time=162.100006=================================
+- Number of clusters: 11
+- [Cluster 4] is the one with the maximum number of Ants=85
+- Net velocity in the x and y respectively are: -0.068104, 0.291817
+
+Cluster	Size	Centroid
+1	7 	(19.117384,6.737230)
+2	4 	(18.258820,10.702999)
+3	6 	(19.201056,9.703300)
+4	85 	(17.930174,19.588007)
+5	10 	(18.260494,12.651051)
+6	3 	(16.978645,21.200047)
+7	10 	(18.617542,30.511192)
+8	9 	(18.887596,42.218960)
+9	4 	(19.309628,33.442993)
+10	4 	(19.553516,40.029243)
+11	4 	(18.775583,39.382900)
+======================time=163.100006=================================
+- Number of clusters: 9
+- [Cluster 2] is the one with the maximum number of Ants=83
+- Net velocity in the x and y respectively are: -0.066145, 0.170624
+
+Cluster	Size	Centroid
+1	6 	(19.139812,10.023396)
+2	83 	(18.014709,19.993946)
+3	12 	(18.390400,13.150846)
+4	2 	(19.393532,12.099355)
+5	8 	(18.416088,30.580362)
+6	3 	(18.202820,31.625685)
+7	6 	(18.910280,42.466717)
+8	6 	(18.577139,33.871647)
+9	4 	(19.490011,35.961414)
+======================time=164.100006=================================
+- Number of clusters: 11
+- [Cluster 5] is the one with the maximum number of Ants=67
+- Net velocity in the x and y respectively are: -0.046348, 0.132742
+
+Cluster	Size	Centroid
+1	4 	(17.972328,9.591782)
+2	4 	(15.269749,25.253273)
+3	13 	(17.813848,12.799201)
+4	11 	(18.473822,15.017884)
+5	67 	(17.923798,23.906952)
+6	4 	(18.147886,30.730806)
+7	4 	(18.013414,45.661808)
+8	4 	(18.545736,34.088314)
+9	3 	(19.520319,33.370171)
+10	6 	(18.426600,51.649776)
+11	4 	(19.422873,42.403088)
+======================time=165.100006=================================
+- Number of clusters: 7
+- [Cluster 1] is the one with the maximum number of Ants=48
+- Net velocity in the x and y respectively are: 0.018705, 0.094059
+
+Cluster	Size	Centroid
+1	48 	(17.987858,20.433493)
+2	12 	(18.155952,13.539475)
+3	41 	(17.633589,24.198997)
+4	4 	(18.200792,30.623991)
+5	4 	(18.199459,31.867622)
+6	4 	(18.744156,36.405941)
+7	4 	(19.363132,42.520794)
+======================time=166.100006=================================
+- Number of clusters: 11
+- [Cluster 3] is the one with the maximum number of Ants=52
+- Net velocity in the x and y respectively are: 0.106892, 0.065787
+
+Cluster	Size	Centroid
+1	12 	(18.182058,12.417913)
+2	4 	(19.209669,10.261603)
+3	52 	(18.253618,15.036980)
+4	29 	(17.786858,24.551693)
+5	6 	(18.152893,30.598696)
+6	4 	(18.345018,44.498287)
+7	3 	(18.912857,32.325275)
+8	11 	(18.672226,42.720642)
+9	7 	(18.871586,48.030659)
+10	4 	(18.416937,54.700886)
+11	3 	(18.945749,48.805691)
+======================time=167.100006=================================
+- Number of clusters: 13
+- [Cluster 3] is the one with the maximum number of Ants=33
+- Net velocity in the x and y respectively are: 0.067086, 0.069775
+
+Cluster	Size	Centroid
+1	5 	(18.141636,6.476314)
+2	11 	(18.414200,12.571699)
+3	33 	(17.356142,18.244284)
+4	19 	(18.207140,21.397997)
+5	4 	(18.943306,33.278641)
+6	27 	(18.437744,27.057646)
+7	4 	(15.290380,37.766624)
+8	9 	(17.938049,30.435268)
+9	3 	(18.903246,32.504818)
+10	5 	(18.862900,42.910965)
+11	15 	(18.888508,48.113091)
+12	4 	(18.277624,40.526039)
+13	4 	(18.933975,45.380100)
+======================time=168.100006=================================
+- Number of clusters: 14
+- [Cluster 4] is the one with the maximum number of Ants=33
+- Net velocity in the x and y respectively are: 0.027816, -0.012183
+
+Cluster	Size	Centroid
+1	15 	(17.943531,12.493996)
+2	12 	(18.385448,15.373519)
+3	29 	(18.005945,20.606035)
+4	33 	(17.924444,27.177191)
+5	5 	(18.903900,33.411919)
+6	8 	(17.589769,39.346996)
+7	15 	(18.065491,30.570028)
+8	9 	(17.668161,42.464790)
+9	7 	(18.622316,36.189003)
+10	8 	(19.150110,48.138409)
+11	4 	(18.034340,36.874615)
+12	4 	(18.966965,45.745632)
+13	4 	(18.669800,51.322105)
+14	4 	(18.769491,49.927711)
+======================time=169.100006=================================
+- Number of clusters: 16
+- [Cluster 3] is the one with the maximum number of Ants=44
+- Net velocity in the x and y respectively are: -0.008664, 0.038765
+
+Cluster	Size	Centroid
+1	8 	(18.512642,12.996450)
+2	11 	(18.512936,15.457288)
+3	44 	(18.048662,20.947927)
+4	16 	(19.488079,19.066278)
+5	7 	(17.797024,39.089108)
+6	7 	(18.903919,33.647797)
+7	14 	(18.024235,29.627888)
+8	4 	(16.044374,33.662853)
+9	13 	(18.506710,38.319744)
+10	11 	(17.621317,42.660793)
+11	4 	(17.223906,50.955265)
+12	7 	(19.002945,48.125244)
+13	5 	(19.525984,45.622948)
+14	4 	(18.906240,40.576771)
+15	2 	(19.528309,39.760586)
+16	4 	(18.918591,51.560940)
+======================time=170.100006=================================
+- Number of clusters: 16
+- [Cluster 4] is the one with the maximum number of Ants=18
+- Net velocity in the x and y respectively are: -0.001871, -0.044125
+
+Cluster	Size	Centroid
+1	4 	(19.544922,12.445518)
+2	12 	(19.507593,14.786502)
+3	3 	(18.492842,12.177611)
+4	18 	(17.965437,21.561760)
+5	12 	(19.580770,19.047304)
+6	14 	(17.992426,39.195667)
+7	8 	(18.758837,33.793087)
+8	3 	(16.861986,39.539131)
+9	11 	(18.933022,25.413189)
+10	12 	(18.781967,26.984436)
+11	8 	(18.792677,45.212742)
+12	11 	(18.795366,41.597488)
+13	10 	(18.872986,51.031540)
+14	8 	(19.146484,48.670864)
+15	8 	(18.400471,35.982895)
+16	6 	(18.851114,53.999779)
+======================time=171.100006=================================
+- Number of clusters: 13
+- [Cluster 4] is the one with the maximum number of Ants=19
+- Net velocity in the x and y respectively are: 0.016816, 0.032956
+
+Cluster	Size	Centroid
+1	10 	(18.093243,14.676976)
+2	6 	(18.998074,12.499887)
+3	16 	(17.752691,18.405594)
+4	19 	(17.938515,21.779274)
+5	13 	(17.963087,24.421194)
+6	14 	(18.464306,27.066219)
+7	12 	(17.434053,40.036800)
+8	8 	(18.642717,45.353382)
+9	13 	(18.883650,43.581455)
+10	5 	(18.377489,36.988190)
+11	7 	(18.838848,51.287693)
+12	7 	(19.306292,48.762291)
+13	4 	(18.591131,55.412128)
+======================time=172.100006=================================
+- Number of clusters: 14
+- [Cluster 9] is the one with the maximum number of Ants=25
+- Net velocity in the x and y respectively are: -0.062512, 0.076014
+
+Cluster	Size	Centroid
+1	4 	(19.501352,13.570582)
+2	4 	(18.494446,15.387980)
+3	17 	(18.575462,22.136860)
+4	13 	(18.491854,19.770006)
+5	6 	(19.454645,16.347408)
+6	14 	(18.002407,27.467346)
+7	18 	(17.986195,39.220268)
+8	13 	(18.731943,23.983232)
+9	25 	(18.658169,45.634075)
+10	4 	(18.862785,30.693012)
+11	5 	(17.941719,36.425198)
+12	4 	(18.428255,48.640236)
+13	4 	(19.511360,50.298611)
+14	3 	(18.690466,51.009998)
+======================time=173.100006=================================
+- Number of clusters: 11
+- [Cluster 6] is the one with the maximum number of Ants=39
+- Net velocity in the x and y respectively are: -0.036296, 0.107682
+
+Cluster	Size	Centroid
+1	4 	(18.939939,9.644445)
+2	9 	(19.302317,15.287766)
+3	33 	(17.934683,22.053837)
+4	13 	(17.922527,27.455200)
+5	10 	(18.364111,19.105425)
+6	39 	(18.177956,39.297058)
+7	11 	(18.590790,45.871311)
+8	6 	(17.950413,30.503510)
+9	1 	(19.000393,19.558174)
+10	4 	(17.079323,33.332153)
+11	3 	(18.437099,33.053936)
+======================time=174.100006=================================
+- Number of clusters: 15
+- [Cluster 4] is the one with the maximum number of Ants=33
+- Net velocity in the x and y respectively are: -0.031215, 0.164147
+
+Cluster	Size	Centroid
+1	4 	(15.658751,21.225113)
+2	8 	(18.991152,15.517544)
+3	6 	(19.555656,19.503263)
+4	33 	(18.490549,22.191328)
+5	14 	(18.249298,39.738270)
+6	8 	(18.450153,27.573229)
+7	18 	(18.176142,45.563034)
+8	4 	(18.942255,33.758327)
+9	4 	(18.534395,18.341345)
+10	14 	(18.066328,42.134262)
+11	7 	(18.809544,31.155476)
+12	6 	(18.689781,37.089218)
+13	5 	(19.089922,49.176270)
+14	2 	(18.090929,36.523605)
+15	1 	(19.485149,37.504967)
+======================time=175.100006=================================
+- Number of clusters: 10
+- [Cluster 6] is the one with the maximum number of Ants=35
+- Net velocity in the x and y respectively are: -0.038479, 0.071199
+
+Cluster	Size	Centroid
+1	13 	(17.875326,18.841803)
+2	17 	(18.513367,22.424639)
+3	4 	(18.106344,16.437569)
+4	4 	(17.162544,24.355528)
+5	23 	(18.015205,27.958504)
+6	35 	(18.171635,40.057762)
+7	11 	(18.156168,45.615417)
+8	7 	(18.411728,51.007942)
+9	5 	(18.671652,48.484394)
+10	3 	(18.999641,46.715061)
+======================time=176.100006=================================
+- Number of clusters: 14
+- [Cluster 4] is the one with the maximum number of Ants=19
+- Net velocity in the x and y respectively are: 0.037729, 0.026145
+
+Cluster	Size	Centroid
+1	14 	(18.323471,22.685997)
+2	4 	(18.341053,19.325788)
+3	4 	(19.155155,18.235170)
+4	19 	(18.588282,40.196541)
+5	11 	(18.341335,27.498901)
+6	7 	(18.607658,24.640285)
+7	16 	(18.269697,45.520378)
+8	2 	(18.986723,25.828140)
+9	8 	(18.266554,36.579174)
+10	3 	(18.600561,42.067184)
+11	4 	(18.545267,54.100037)
+12	2 	(19.216944,42.893070)
+13	4 	(19.013771,46.779453)
+14	4 	(18.269587,51.906967)
+======================time=177.100006=================================
+- Number of clusters: 8
+- [Cluster 2] is the one with the maximum number of Ants=32
+- Net velocity in the x and y respectively are: 0.047399, -0.010070
+
+Cluster	Size	Centroid
+1	5 	(18.037046,12.342164)
+2	32 	(17.959944,20.557680)
+3	10 	(18.289291,19.250490)
+4	15 	(18.594419,40.450523)
+5	25 	(18.056190,41.957962)
+6	5 	(19.445116,31.226341)
+7	4 	(18.378099,36.846127)
+8	4 	(19.535446,51.596352)
+======================time=178.100006=================================
+- Number of clusters: 11
+- [Cluster 5] is the one with the maximum number of Ants=20
+- Net velocity in the x and y respectively are: 0.097787, 0.028867
+
+Cluster	Size	Centroid
+1	4 	(15.447266,24.285791)
+2	5 	(18.616823,15.260485)
+3	10 	(17.919584,18.618916)
+4	4 	(18.404736,12.960010)
+5	20 	(18.466356,23.027323)
+6	11 	(18.328957,28.160410)
+7	9 	(18.444551,21.160675)
+8	11 	(18.971962,39.599987)
+9	9 	(18.899942,44.987587)
+10	10 	(18.600931,42.517162)
+11	4 	(18.908810,53.958035)
+======================time=179.100006=================================
+- Number of clusters: 15
+- [Cluster 6] is the one with the maximum number of Ants=24
+- Net velocity in the x and y respectively are: 0.081686, 0.049869
+
+Cluster	Size	Centroid
+1	9 	(18.248606,12.159666)
+2	7 	(17.913372,18.883478)
+3	4 	(15.042827,42.188976)
+4	13 	(18.000013,21.875845)
+5	4 	(18.816916,14.753484)
+6	24 	(18.336851,28.227676)
+7	4 	(18.102116,32.545620)
+8	7 	(18.984037,23.798332)
+9	4 	(18.150150,46.291473)
+10	8 	(18.985281,39.618267)
+11	5 	(19.536648,33.386654)
+12	10 	(18.576458,42.709724)
+13	10 	(18.900185,37.396049)
+14	3 	(19.024839,40.642300)
+15	4 	(18.454264,52.792240)
+======================time=180.100006=================================
+- Number of clusters: 18
+- [Cluster 4] is the one with the maximum number of Ants=20
+- Net velocity in the x and y respectively are: 0.009147, -0.004470
+
+Cluster	Size	Centroid
+1	6 	(15.490343,12.524679)
+2	4 	(19.000490,12.556780)
+3	5 	(16.079651,25.273987)
+4	20 	(18.634377,23.443539)
+5	4 	(18.052834,16.409248)
+6	18 	(18.459423,28.390297)
+7	15 	(18.290663,41.127518)
+8	10 	(17.956970,30.777803)
+9	5 	(18.424677,25.114590)
+10	8 	(18.348289,32.760300)
+11	3 	(18.219084,34.073765)
+12	4 	(18.133047,36.654938)
+13	3 	(18.236084,37.448025)
+14	4 	(19.073265,43.468586)
+15	4 	(18.267292,44.329559)
+16	4 	(19.000309,42.487667)
+17	4 	(19.311548,45.683891)
+18	5 	(19.010750,54.448780)
+======================time=181.100006=================================
+- Number of clusters: 18
+- [Cluster 5] is the one with the maximum number of Ants=24
+- Net velocity in the x and y respectively are: 0.064660, -0.005737
+
+Cluster	Size	Centroid
+1	4 	(18.675459,11.949303)
+2	14 	(17.935659,21.333178)
+3	16 	(18.653759,28.356983)
+4	4 	(18.165869,41.151646)
+5	24 	(18.799540,35.394981)
+6	4 	(15.283717,40.267830)
+7	13 	(18.025574,30.884279)
+8	4 	(18.199308,25.004982)
+9	3 	(18.616255,26.162367)
+10	5 	(19.145844,24.006466)
+11	5 	(18.503336,42.272392)
+12	6 	(18.661285,45.130951)
+13	4 	(19.543528,40.665253)
+14	6 	(18.795938,37.602749)
+15	4 	(19.527752,47.300945)
+16	4 	(18.810328,48.573013)
+17	4 	(19.533476,54.424362)
+18	4 	(18.842443,51.036873)
+======================time=182.100006=================================
+- Number of clusters: 13
+- [Cluster 6] is the one with the maximum number of Ants=26
+- Net velocity in the x and y respectively are: 0.092261, 0.117310
+
+Cluster	Size	Centroid
+1	11 	(18.482687,23.832949)
+2	8 	(19.419369,21.480392)
+3	13 	(18.558058,28.419344)
+4	4 	(18.353903,41.217529)
+5	16 	(19.018854,35.762302)
+6	26 	(18.010626,31.180023)
+7	6 	(15.769739,45.446743)
+8	16 	(18.637098,46.672604)
+9	8 	(18.339224,42.450397)
+10	11 	(19.220047,39.999298)
+11	8 	(19.495337,51.239315)
+12	4 	(18.648537,55.539703)
+13	3 	(19.533710,43.089355)
+======================time=183.100006=================================
+- Number of clusters: 15
+- [Cluster 5] is the one with the maximum number of Ants=27
+- Net velocity in the x and y respectively are: -0.020681, 0.111330
+
+Cluster	Size	Centroid
+1	10 	(18.446218,24.064713)
+2	8 	(18.805479,21.251440)
+3	6 	(18.839193,15.140818)
+4	4 	(19.552441,17.923471)
+5	27 	(18.608025,35.866611)
+6	3 	(17.373804,39.046047)
+7	12 	(18.398121,27.693542)
+8	15 	(18.391342,33.317101)
+9	4 	(18.342028,42.519966)
+10	4 	(18.885412,30.514812)
+11	4 	(15.189994,45.528088)
+12	7 	(18.352970,49.083786)
+13	9 	(18.734192,45.233555)
+14	8 	(19.576216,51.604450)
+15	4 	(18.556395,57.149086)
+======================time=184.100006=================================
+- Number of clusters: 17
+- [Cluster 6] is the one with the maximum number of Ants=17
+- Net velocity in the x and y respectively are: -0.000514, 0.067727
+
+Cluster	Size	Centroid
+1	9 	(19.521671,15.748077)
+2	16 	(17.577911,21.060162)
+3	4 	(18.850195,13.518900)
+4	8 	(18.627499,24.177925)
+5	10 	(18.493187,18.458767)
+6	17 	(18.798496,35.998394)
+7	13 	(18.329462,27.781214)
+8	15 	(17.927530,33.351990)
+9	4 	(19.499493,30.577951)
+10	8 	(18.372963,42.765034)
+11	6 	(18.036695,48.782101)
+12	11 	(19.143129,40.232723)
+13	14 	(17.997902,51.999054)
+14	11 	(18.918648,45.611843)
+15	6 	(18.904470,54.317322)
+16	4 	(18.619677,57.616642)
+17	4 	(19.495552,63.253044)
+======================time=185.100006=================================
+- Number of clusters: 18
+- [Cluster 2] is the one with the maximum number of Ants=23
+- Net velocity in the x and y respectively are: 0.010214, 0.190074
+
+Cluster	Size	Centroid
+1	8 	(17.970665,12.477222)
+2	23 	(19.510799,15.916974)
+3	4 	(15.859491,24.356642)
+4	14 	(17.469315,21.217459)
+5	10 	(18.615416,24.219141)
+6	13 	(18.804907,36.045189)
+7	14 	(18.306519,27.906069)
+8	4 	(19.491322,30.453089)
+9	11 	(18.325996,33.739098)
+10	8 	(18.734867,47.994236)
+11	22 	(18.455349,43.007030)
+12	13 	(19.062037,40.543961)
+13	4 	(15.344405,45.652599)
+14	13 	(18.003531,52.224926)
+15	3 	(18.623613,31.356054)
+16	8 	(18.994108,54.575588)
+17	4 	(19.530321,63.639477)
+18	4 	(18.530375,69.396286)
+======================time=186.100006=================================
+- Number of clusters: 17
+- [Cluster 5] is the one with the maximum number of Ants=30
+- Net velocity in the x and y respectively are: -0.040874, 0.209902
+
+Cluster	Size	Centroid
+1	7 	(15.939034,24.597147)
+2	4 	(18.346384,13.234128)
+3	11 	(18.823984,14.942019)
+4	12 	(18.344244,21.597084)
+5	30 	(17.441891,24.400057)
+6	13 	(19.582468,19.145464)
+7	7 	(15.999311,44.879791)
+8	27 	(18.915342,36.204449)
+9	11 	(17.440622,39.520901)
+10	10 	(19.344278,30.452656)
+11	13 	(18.867123,47.659405)
+12	11 	(19.266024,40.867901)
+13	13 	(18.802252,46.125179)
+14	4 	(18.820259,63.519630)
+15	4 	(18.174978,51.929398)
+16	6 	(18.455343,51.016171)
+17	4 	(19.530462,54.311287)
+======================time=187.100006=================================
+- Number of clusters: 17
+- [Cluster 2] is the one with the maximum number of Ants=32
+- Net velocity in the x and y respectively are: 0.018686, 0.179087
+
+Cluster	Size	Centroid
+1	4 	(19.021879,13.142859)
+2	32 	(18.381779,21.528446)
+3	4 	(16.267050,24.091969)
+4	11 	(19.483946,19.203913)
+5	6 	(18.872408,15.558719)
+6	10 	(18.381741,42.512363)
+7	15 	(19.052029,36.413006)
+8	14 	(18.258503,28.575672)
+9	14 	(17.880213,44.617191)
+10	8 	(18.615465,47.960796)
+11	7 	(18.810926,33.594769)
+12	9 	(19.585423,29.973991)
+13	15 	(18.566891,49.891602)
+14	9 	(19.479284,39.691849)
+15	4 	(15.611352,51.536102)
+16	9 	(19.075857,55.065804)
+17	4 	(18.902311,56.932190)
+======================time=188.100006=================================
+- Number of clusters: 15
+- [Cluster 3] is the one with the maximum number of Ants=27
+- Net velocity in the x and y respectively are: 0.115221, 0.227194
+
+Cluster	Size	Centroid
+1	4 	(16.052244,22.739408)
+2	8 	(19.509928,17.896744)
+3	27 	(18.477468,21.597042)
+4	3 	(18.154715,23.343561)
+5	12 	(18.516670,42.529026)
+6	20 	(19.012272,36.633743)
+7	5 	(15.462876,36.023682)
+8	11 	(18.587017,27.775751)
+9	24 	(18.738024,47.987125)
+10	6 	(18.940062,33.547192)
+11	4 	(18.891685,19.777521)
+12	9 	(18.132338,39.043507)
+13	14 	(19.015903,52.240273)
+14	2 	(19.328794,49.782383)
+15	6 	(18.967293,54.491215)
+======================time=189.100006=================================
+- Number of clusters: 20
+- [Cluster 2] is the one with the maximum number of Ants=32
+- Net velocity in the x and y respectively are: 0.109217, 0.207803
+
+Cluster	Size	Centroid
+1	17 	(18.572859,21.786224)
+2	32 	(18.929718,24.602461)
+3	4 	(18.222572,16.177242)
+4	9 	(19.129715,18.590544)
+5	22 	(18.887068,36.662632)
+6	16 	(19.012869,48.217426)
+7	8 	(18.509939,43.517277)
+8	9 	(18.953905,33.908642)
+9	12 	(18.126192,51.378555)
+10	8 	(18.952852,46.561939)
+11	4 	(18.213491,30.503996)
+12	4 	(15.861816,54.621578)
+13	4 	(18.006731,55.362858)
+14	4 	(19.485197,42.057808)
+15	3 	(18.195530,31.853891)
+16	6 	(18.540464,39.609985)
+17	3 	(18.613811,45.064163)
+18	2 	(18.203484,42.025024)
+19	4 	(18.344944,63.694214)
+20	5 	(19.545408,54.235378)
+======================time=190.100006=================================
+- Number of clusters: 15
+- [Cluster 2] is the one with the maximum number of Ants=42
+- Net velocity in the x and y respectively are: 0.059193, 0.229593
+
+Cluster	Size	Centroid
+1	6 	(15.308385,18.440237)
+2	42 	(17.927612,21.966970)
+3	6 	(18.972147,16.739408)
+4	5 	(19.041069,18.491734)
+5	12 	(18.478100,42.653225)
+6	24 	(18.935032,36.476650)
+7	4 	(19.283789,29.856470)
+8	15 	(19.018677,48.450603)
+9	6 	(19.465931,30.792608)
+10	12 	(18.136681,51.652431)
+11	9 	(19.484362,40.385849)
+12	4 	(17.485395,60.416370)
+13	5 	(18.736107,57.470772)
+14	9 	(18.462738,45.311489)
+15	4 	(19.539614,54.757557)
+======================time=191.100006=================================
+- Number of clusters: 17
+- [Cluster 3] is the one with the maximum number of Ants=42
+- Net velocity in the x and y respectively are: -0.027826, 0.132486
+
+Cluster	Size	Centroid
+1	4 	(18.608503,3.622945)
+2	4 	(18.772291,12.559073)
+3	42 	(18.022593,21.977825)
+4	4 	(15.016927,24.476641)
+5	8 	(18.707108,18.228550)
+6	4 	(16.514368,39.426804)
+7	12 	(18.533522,30.230610)
+8	22 	(18.310747,42.742630)
+9	14 	(18.911278,36.652256)
+10	13 	(17.927361,40.683117)
+11	13 	(18.530350,34.599575)
+12	11 	(18.934736,48.504753)
+13	6 	(15.467991,50.987705)
+14	26 	(18.136547,51.724922)
+15	4 	(18.602186,46.799320)
+16	2 	(19.190250,35.026997)
+17	4 	(18.917765,69.539246)
+======================time=192.100006=================================
+- Number of clusters: 15
+- [Cluster 10] is the one with the maximum number of Ants=29
+- Net velocity in the x and y respectively are: -0.074547, 0.102821
+
+Cluster	Size	Centroid
+1	4 	(18.209385,12.276316)
+2	4 	(18.750908,15.002567)
+3	17 	(18.083261,20.024111)
+4	14 	(18.082054,30.436380)
+5	14 	(18.930454,25.176117)
+6	6 	(18.717863,18.363127)
+7	13 	(18.288073,42.712601)
+8	19 	(18.838224,36.829918)
+9	12 	(18.838232,28.320423)
+10	29 	(17.779184,51.004200)
+11	11 	(18.949242,34.270679)
+12	10 	(18.397877,54.573254)
+13	10 	(18.396133,44.985943)
+14	6 	(18.233257,57.000206)
+15	4 	(18.322615,63.102703)
+======================time=193.100006=================================
+- Number of clusters: 15
+- [Cluster 1] is the one with the maximum number of Ants=27
+- Net velocity in the x and y respectively are: -0.057962, 0.149301
+
+Cluster	Size	Centroid
+1	27 	(17.957783,21.821314)
+2	6 	(18.148630,17.971617)
+3	5 	(17.956242,33.585083)
+4	2 	(18.050947,23.968691)
+5	7 	(18.470625,30.469942)
+6	15 	(18.333422,42.925335)
+7	22 	(18.771381,36.765179)
+8	12 	(18.082388,26.960596)
+9	25 	(19.079586,48.977196)
+10	9 	(18.147715,39.261936)
+11	4 	(15.899432,39.626141)
+12	3 	(18.150745,31.704395)
+13	14 	(18.291857,45.214214)
+14	5 	(18.289253,53.439632)
+15	4 	(18.786825,55.270618)
+======================time=194.100006=================================
+- Number of clusters: 20
+- [Cluster 2] is the one with the maximum number of Ants=29
+- Net velocity in the x and y respectively are: -0.058870, 0.155409
+
+Cluster	Size	Centroid
+1	9 	(19.452282,18.640570)
+2	29 	(18.336817,22.671846)
+3	6 	(17.236759,42.028492)
+4	6 	(18.493567,30.701099)
+5	4 	(15.724760,42.143490)
+6	7 	(18.294069,43.429935)
+7	15 	(18.807156,36.779213)
+8	4 	(19.524628,32.207150)
+9	4 	(17.939800,26.984756)
+10	22 	(18.998039,49.202358)
+11	15 	(18.338974,39.292355)
+12	3 	(18.911957,27.101673)
+13	3 	(19.320824,33.648628)
+14	2 	(18.181822,48.219826)
+15	4 	(18.236675,61.255039)
+16	12 	(18.066662,45.259476)
+17	8 	(18.940178,57.077301)
+18	4 	(12.211699,54.320797)
+19	3 	(19.164591,47.288548)
+20	4 	(19.541866,54.618336)
+======================time=195.100006=================================
+- Number of clusters: 15
+- [Cluster 2] is the one with the maximum number of Ants=30
+- Net velocity in the x and y respectively are: -0.086904, 0.102138
+
+Cluster	Size	Centroid
+1	4 	(15.679015,23.120451)
+2	30 	(17.988049,23.084988)
+3	4 	(15.500390,21.452036)
+4	6 	(19.416162,18.579317)
+5	4 	(18.496756,15.186516)
+6	13 	(18.308849,43.530163)
+7	16 	(18.520218,37.012894)
+8	4 	(18.291231,27.998224)
+9	4 	(18.910442,30.372322)
+10	9 	(18.861805,49.234203)
+11	7 	(18.421331,40.209187)
+12	7 	(18.826715,51.432568)
+13	3 	(17.971672,50.269844)
+14	6 	(17.639296,57.114952)
+15	10 	(18.112537,45.185703)
+======================time=196.100006=================================
+- Number of clusters: 13
+- [Cluster 3] is the one with the maximum number of Ants=27
+- Net velocity in the x and y respectively are: -0.043385, 0.107782
+
+Cluster	Size	Centroid
+1	6 	(16.183121,19.179543)
+2	11 	(17.950884,19.116806)
+3	27 	(18.042141,23.608229)
+4	4 	(18.308603,43.695885)
+5	4 	(19.556871,27.464386)
+6	10 	(17.947716,41.990139)
+7	15 	(18.023808,36.312340)
+8	5 	(18.405905,28.069733)
+9	4 	(19.517542,30.401712)
+10	13 	(18.567875,39.625599)
+11	4 	(18.723036,51.682510)
+12	6 	(18.542313,48.646442)
+13	6 	(19.361748,45.218910)
+======================time=197.100006=================================
+- Number of clusters: 15
+- [Cluster 1] is the one with the maximum number of Ants=16
+- Net velocity in the x and y respectively are: -0.024289, 0.096476
+
+Cluster	Size	Centroid
+1	16 	(17.788912,25.308428)
+2	8 	(18.069160,19.111549)
+3	15 	(17.971519,22.777145)
+4	4 	(18.783117,17.417816)
+5	1 	(19.504263,19.630772)
+6	4 	(18.348507,44.110813)
+7	14 	(19.017859,37.325493)
+8	13 	(18.837740,29.309008)
+9	5 	(18.530497,50.528214)
+10	13 	(18.536674,39.695286)
+11	6 	(19.035276,34.988361)
+12	4 	(18.869698,51.991478)
+13	8 	(18.577000,48.570141)
+14	4 	(18.957214,46.583248)
+15	4 	(18.681015,45.691574)
+======================time=198.100006=================================
+- Number of clusters: 11
+- [Cluster 1] is the one with the maximum number of Ants=66
+- Net velocity in the x and y respectively are: 0.106129, 0.199357
+
+Cluster	Size	Centroid
+1	66 	(17.367809,20.865915)
+2	9 	(15.654122,23.506098)
+3	10 	(18.024624,18.962368)
+4	4 	(18.344322,13.318887)
+5	7 	(18.335651,44.216660)
+6	14 	(19.038927,37.596786)
+7	23 	(18.162119,42.244194)
+8	9 	(18.800301,34.285263)
+9	6 	(18.004938,51.406246)
+10	12 	(18.569805,48.555199)
+11	3 	(18.941376,51.451603)
+======================time=199.100006=================================
+- Number of clusters: 12
+- [Cluster 4] is the one with the maximum number of Ants=63
+- Net velocity in the x and y respectively are: 0.050543, 0.109659
+
+Cluster	Size	Centroid
+1	4 	(18.587795,15.640158)
+2	4 	(18.426193,10.617974)
+3	10 	(17.848501,18.276583)
+4	63 	(17.914497,23.930588)
+5	4 	(15.500024,24.869270)
+6	4 	(18.175413,44.751030)
+7	17 	(19.044155,37.827316)
+8	12 	(18.087524,42.584915)
+9	15 	(18.090715,39.734760)
+10	8 	(18.840017,34.270161)
+11	10 	(18.858898,48.959961)
+12	6 	(19.535147,51.261639)
+======================time=200.100006=================================
+- Number of clusters: 14
+- [Cluster 2] is the one with the maximum number of Ants=48
+- Net velocity in the x and y respectively are: 0.016093, 0.063132
+
+Cluster	Size	Centroid
+1	4 	(15.807836,18.352850)
+2	48 	(17.721247,21.135706)
+3	14 	(18.058748,19.232813)
+4	4 	(19.202015,16.131094)
+5	4 	(15.322547,36.845406)
+6	23 	(19.161474,37.931564)
+7	12 	(18.224590,42.832043)
+8	13 	(18.180540,30.723206)
+9	4 	(17.922022,48.259689)
+10	4 	(18.842787,32.949978)
+11	6 	(18.140865,33.678078)
+12	7 	(18.775295,49.145641)
+13	6 	(19.519482,51.757744)
+14	4 	(18.030842,54.262287)

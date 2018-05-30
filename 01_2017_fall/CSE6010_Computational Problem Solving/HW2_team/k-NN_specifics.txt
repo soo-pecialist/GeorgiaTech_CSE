@@ -1,0 +1,9 @@
+kNN model is created by Xiangyu Kong(GTID# 903322862)
+
+// Implementation Details:
+// Main function: 
+// 1)Read the input data file :1. Train dataset input(the results of the K means) 2.The data to be classified(gbm_KNN.norm)
+// 2)Calculate the distance between every target point and train points
+// 3)Sort the distance result and then choose the nearest K points
+// 4)Get the cluster of the majority K points, choosing the smallest number of the cluster if threre is a tie.
+// 5)Assign the data need to be classified to the cluster
