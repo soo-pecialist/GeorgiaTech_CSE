@@ -1,0 +1,18 @@
+# This is PBS script for test by Soo Hyeon Kim (skim3026)
+#PBS -N testMPI_skim3026
+#PBS -l nodes=9:core8
+#PBS -l walltime=00:15:00
+#PBS -q coc-ice
+#PBS -o test_skim3026.out
+#PBS -m abe
+#PBS -M skim3026@gatech.edu
+
+cd ~/skim3026_pa2
+echo "started"
+module load gcc mvapich2/2.2
+make clean
+make
+make test
+
+#./jacobi -n 30000 -d 1
+#mpirun -np 9 ./jacobi -n 20000 -d 1

@@ -1,0 +1,28 @@
+README.txt by Soo Hyeon Kim (skim3026)
+
+0. unzip 'skim3026_pa2.zip'
+
+** On local computer **
+1. type in: 
+	make
+2. type in:
+	make test
+3. you can see the result 
+(4.) you can also try these individually:
+	$ mpirun -np 4 ./jacobi -n 10
+	$ mpirun -np 4 ./seq_tests -n 10
+	$ mpirun -np 4 ./mpi_tests -n 10
+
+
+** On Pace cluster **
+1. before loggin in, 
+	scp -r ~/skim3026_pa2(current local location) <gtusername>@ice-coc.pace.gatech.edu:skim3026_pa2
+2. At the directory,
+	qsub skim3026.pbs
+3. when qsub is done, you can see 'testMPI_skim3026.eXXXX' and 'test_skim3026.out'
+4. type in to see the test results
+	nano test_skim3026.out
+5. if you want to clean up, type in
+	$ make clean
+	$ rm testMPI_skim3026.eXXXX
+	$ rm test_skim3026.out
